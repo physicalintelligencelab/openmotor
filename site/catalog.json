@@ -439,9 +439,21 @@
    "id": "King2025_bioRxiv",
    "side": "development",
    "source": "external",
-   "links": [],
+   "links": [
+    {
+     "url": "https://osf.io/ksgmv/",
+     "host": "OSF"
+    }
+   ],
    "lab": "Henriques / 't Hart (York University)",
    "papers": [
+    {
+     "authors": "King AM, Boulrice JJ, Modchalingam S, Mikula L, 't Hart BM, Henriques DYP",
+     "year": 2026,
+     "title": "Using tools as cues for motor adaptation in virtual reality",
+     "venue": "J Neurophysiol 135(3):642-652",
+     "doi": "10.1152/jn.00452.2025"
+    },
     {
      "authors": "King AM, Boulrice JJ, Modchalingam S, Mikula L, 't Hart BM, Henriques DYP",
      "year": 2025,
@@ -453,7 +465,7 @@
    "licenses": [
     [
      "None stated",
-     "No license on the OSF project; shared through a view-only link in the preprint"
+     "No license on the OSF project"
     ]
    ],
    "year": 2025,
