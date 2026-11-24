@@ -196,6 +196,13 @@ def publish_zip(dataset_id, zip_path, tag=TAG, *, repo=REPO, record=None, record
     'versions' and points url / zip_sha256 / zip_bytes at the newest version."""
     if not ID_RE.fullmatch(dataset_id):
         raise ValueError(f"bad dataset id {dataset_id!r}")
+    # 2026-11-24: a dataset whose authors stated no license is listed and linked, never shared as a file
+    _listings = HERE / "source/extra_studies.json"
+    _listing = ({e["id"]: e for e in json.load(open(_listings, encoding="utf-8"))}.get(dataset_id)
+                if _listings.exists() else None)
+    if _listing is not None and not _listing.get("license") and not _listing.get("contributed"):
+        raise PermissionError(f"{dataset_id}: its authors stated no license, so OpenMotor does not share a copy; "
+                              "link the study to their deposit, or record their permission and license first")
     zip_path = Path(zip_path)
     gh = gh or GitHub(repo)
     if record is None:

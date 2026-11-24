@@ -232,7 +232,10 @@ for rp in sorted(RREC.glob("*.json")):
     entry = {"name": r["id"], "file": f"{r['id']}.zip", "rows": r["rows"], "persons": r.get("persons", r["subjects"]),
              "subjects": r["subjects"], "license": e.get("license") or "Not stated", "kind": "extra", "status": "available",
              "catalog_study": r["id"], "module": r["module"]}
-    if r.get("url"):  # hosted as a GitHub release asset (tools/std/upload.py)
+    if not e.get("license") and not e.get("contributed"):
+        # no license from the authors (2026-11-24): counted, but no file is shared; the study links to the authors' deposit
+        entry.update(status="held", bytes=r["zip_bytes"])
+    elif r.get("url"):  # hosted as a GitHub release asset (tools/std/upload.py)
         url = r["url"].replace("https://github.com/ShadowCoder1/openmotor/", f"https://github.com/{cfg['repo']}/")  # repo moved 2026-11-08
         entry.update(url=url, bytes=r["zip_bytes"], sha256=r["zip_sha256"])
     elif z.exists():
@@ -277,7 +280,9 @@ meta["submitEndpoint"] = cfg.get("submit_endpoint") or None
 _bundle = HERE / "source/bundle/openmotor-all-datasets.zip"
 if cfg.get("bundle_tag") and (_bundle.exists() or cfg.get("bundle_bytes")):
     meta["bundle"] = {"url": f"https://github.com/{cfg['repo']}/releases/download/{cfg['bundle_tag']}/openmotor-all-datasets.zip",
-                      "bytes": _bundle.stat().st_size if _bundle.exists() else cfg["bundle_bytes"]}
+                      "bytes": _bundle.stat().st_size if _bundle.exists() else cfg["bundle_bytes"],
+                      # the bundle holds the first release's shared datasets only (none whose authors stated no license)
+                      "studies": len({m["catalog_study"] for m in manifest.values() if m["kind"] in published})}
 
 # ---- catalog.csv (one row per study) and columns.csv
 by_study = {}

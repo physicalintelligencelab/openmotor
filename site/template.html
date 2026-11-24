@@ -1069,12 +1069,13 @@ button.ct-btn-primary { border: 0; cursor: pointer; }
 
   /* ---------- standardization ---------- */
   var FILES_OF = {};
-  FILES.forEach(function (f) { (FILES_OF[f.catalog_study] = FILES_OF[f.catalog_study] || []).push(f); });
+  /* only files shared as downloads; datasets whose authors stated no license link to the authors' deposit instead */
+  FILES.forEach(function (f) { if (f.status === "available") (FILES_OF[f.catalog_study] = FILES_OF[f.catalog_study] || []).push(f); });
   var STD = STUDIES.filter(function (s) { return FILES_OF[s.id]; }).sort(function (a, b) { return a._first.localeCompare(b._first) || a.year - b.year; });
   var nStd = STD.length;
   var XS = META.standardizedExtra || { studies: 0, reaching: 0 };
-  $("#std-list-lead").innerHTML = "The " + nStd + " studies we standardized, by first author. Each ZIP has the data as one CSV file, a README with the citation, license and checks, and columns.csv." +
-    (META.bundle ? " <a href=\"" + esc(META.bundle.url) + "\">Download the " + META.standardizedStudies + " reaching studies of the first release in one ZIP (" + mb(META.bundle.bytes) + ")</a>." : "");
+  $("#std-list-lead").innerHTML = "The " + nStd + " studies we share in the standard format, by first author. Each ZIP has the data as one CSV file, a README with the citation, license and checks, and columns.csv. Where the authors stated no license, the study links to their original data until they give permission." +
+    (META.bundle ? " <a href=\"" + esc(META.bundle.url) + "\">Download the " + (META.bundle.studies || META.standardizedStudies) + " reaching studies of the first release in one ZIP (" + mb(META.bundle.bytes) + ")</a>." : "");
   $("#std-list").innerHTML = STD.map(function (s) {
     var fs = FILES_OF[s.id];
     var t = s.papers[0].title;

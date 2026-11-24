@@ -229,15 +229,16 @@ def datasets():
     man = load_json(HERE / "source/release/manifest.json", {})
     base = f"https://github.com/{cfg.get('repo')}/releases/download/{cfg.get('bundle_tag')}/"
     for m in man.values():
-        out.append({"name": m["name"], "study": m["catalog_study"], "module": "reach90", "url": base + m["file"],
+        shared = m["kind"] in cfg.get("publish_kinds", [])  # no-license datasets: no public file, cached lines only
+        out.append({"name": m["name"], "study": m["catalog_study"], "module": "reach90", "url": base + m["file"] if shared else "",
                     "sha256": m["sha256"], "local": HERE / "source/release" / m["file"], "paradigms": m.get("paradigms") or {}})
     for rp in sorted((HERE / "source/release_extra_records").glob("*.json")):
         if rp.name.endswith(".skip.json"):
             continue
         r = load_json(rp)
-        if not r.get("url") or not r.get("zip_sha256"):
+        if not (r.get("url") or r.get("held")) or not r.get("zip_sha256"):
             continue
-        url = r["url"].replace("https://github.com/ShadowCoder1/openmotor/", f"https://github.com/{cfg.get('repo')}/")  # repo moved 2026-11-08
+        url = r.get("url", "").replace("https://github.com/ShadowCoder1/openmotor/", f"https://github.com/{cfg.get('repo')}/")  # repo moved 2026-11-08
         out.append({"name": r["id"], "study": r["id"], "module": r["module"], "url": url, "sha256": r["zip_sha256"],
                     "local": HERE / "source/release_extra" / f"{r['id']}.zip", "paradigms": {}})
     return out
@@ -256,6 +257,8 @@ def get_zip(ds, tmp):
     if ds["local"].exists() and sha256_of(ds["local"]) == ds["sha256"]:
         return ds["local"], False
     dest = Path(tmp) / f"{ds['name']}.zip"
+    if not ds["url"]:  # held (no license stated): not downloadable, so only a cached result can be used
+        return None, False
     for attempt in range(3):
         try:
             req = urllib.request.Request(ds["url"], headers={"User-Agent": "OpenMotor-explore-build/1.0"})

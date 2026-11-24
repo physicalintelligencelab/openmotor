@@ -26,10 +26,10 @@ Browse and download: https://physicalintelligencelab.github.io/openmotor/
 ## Licenses
 
 Each dataset keeps the license its authors chose; its README states it. Datasets first shared through the
-OpenMotor database are CC BY 4.0. Some original deposits list no license; those are shared with credit to
-their authors.
+OpenMotor database are CC BY 4.0. Where the authors' deposit states no license, OpenMotor lists the study and
+links to the authors' original data, and shares a standardized copy only once the authors give permission.
 
-**Authors:** to correct, relicense or remove a dataset, open an issue in this repository. To add a dataset,
+**Authors:** to correct, relicense or remove a dataset, or to let us share a standardized copy, open an issue in this repository. To add a dataset,
 use the Add your data page on the site.
 
 ## Citing

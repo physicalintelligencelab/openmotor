@@ -1,5 +1,5 @@
 {
- "_comment": "Owner's decision 2026-11-06: publish every dataset (including the formerly held-out 22 and those whose authors posted no license, with credit and a removal route via GitHub issues). OpenMotor's own datasets are CC BY 4.0.",
+ "_comment": "2026-11-24 (owner): datasets whose authors stated no license are not shared as files; the site lists them and links to the authors' own deposit until the authors give permission (their ZIPs are kept in the draft release 'held-no-license'). Earlier, 2026-11-06: every dataset was published with credit and a removal route. OpenMotor's own datasets are CC BY 4.0.",
  "publish_kinds": [
   "openmotor",
   "cc-by",
@@ -7,7 +7,6 @@
   "cc0",
   "mit",
   "gpl",
-  "none",
   "mixed"
  ],
  "license_labels": {
@@ -23,7 +22,7 @@
  "repo": "physicalintelligencelab/openmotor",
  "bundle_tag": "data-2026-11-04",
  "submit_endpoint": "",
- "bundle_bytes": 137559780,
+ "bundle_bytes": 79933623,
  "api_base": "https://openmotor-api.vercel.app",
  "counter_start": {
   "visitors": 472,
