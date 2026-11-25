@@ -44051,5 +44051,526 @@
    "finder": "2026-11-25",
    "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
   }
+ },
+ {
+  "id": "Pacheco2021_PsyArXiv",
+  "label": "Pacheco et al. 2021",
+  "year": 2021,
+  "lab": "Hsieh (Fu Jen Catholic University)",
+  "papers": [
+   {
+    "authors": "Pacheco M, Lafe CW, Chen CH, Hsieh TY",
+    "year": 2021,
+    "title": "Consistent Individual Tendencies in Motor Speed-Accuracy Trade-Off",
+    "venue": "",
+    "doi": "10.31234/osf.io/bz8uh"
+   }
+  ],
+  "data_url": "https://osf.io/zwcgy/",
+  "host": "OSF",
+  "formats": [
+   "MATLAB",
+   "Excel",
+   "CSV"
+  ],
+  "n_participants": 30,
+  "task": "reaching",
+  "methods": [
+   "speed-accuracy trade-off"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC preprint with a motor theory keyword in title/abstract ('speed-accuracy trade-off')"
+  }
+ },
+ {
+  "id": "Lee2020_PLoSONE",
+  "label": "Lee et al. 2020",
+  "year": 2020,
+  "lab": "Kim (Handong Global University)",
+  "papers": [
+   {
+    "authors": "Lee G, Choi W, Jo H, Park W, Kim J",
+    "year": 2020,
+    "title": "Analysis of motor control strategy for frontal and sagittal planes of circular tracking movements using visual feedback noise from velocity change and depth information",
+    "venue": "PLoS ONE 15(11):e0241138",
+    "doi": "10.1371/journal.pone.0241138"
+   }
+  ],
+  "data_url": "https://doi.org/10.17605/osf.io/yauhs",
+  "host": "OSF",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": null,
+  "task": "tracking",
+  "methods": [
+   "virtual reality"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('optimal feedback control')"
+  }
+ },
+ {
+  "id": "Masselink2021_eLife",
+  "label": "Masselink & Lappe 2021",
+  "year": 2021,
+  "lab": "Lappe (University of Munster)",
+  "papers": [
+   {
+    "authors": "Masselink J, Lappe M",
+    "year": 2021,
+    "title": "Visuomotor learning from postdictive motor error",
+    "venue": "eLife 10:e64278",
+    "doi": "10.7554/elife.64278"
+   }
+  ],
+  "data_url": "https://doi.org/10.5281/zenodo.4588852",
+  "host": "Zenodo",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": null,
+  "task": "eye movements",
+  "methods": [
+   "saccade adaptation"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Fabius2020_Cortex",
+  "label": "Fabius et al. 2020",
+  "year": 2020,
+  "lab": "Van der Stigchel (Utrecht University)",
+  "papers": [
+   {
+    "authors": "Fabius JH, Nijboer TCW, Fracasso A, Van der Stigchel S",
+    "year": 2020,
+    "title": "Intra-saccadic displacement sensitivity after a lesion to the posterior parietal cortex",
+    "venue": "Cortex 127:108-119",
+    "doi": "10.1016/j.cortex.2020.01.027"
+   }
+  ],
+  "data_url": "https://osf.io/t5d36/",
+  "host": "OSF",
+  "formats": [
+   "text"
+  ],
+  "n_participants": null,
+  "task": "eye movements",
+  "methods": [],
+  "populations": [
+   "stroke"
+  ],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Ozker2022_PLoSBiol",
+  "label": "Ozker et al. 2022",
+  "year": 2022,
+  "lab": "Flinker (NYU Langone Health)",
+  "papers": [
+   {
+    "authors": "Ozker M, Doyle W, Devinsky O, Flinker A",
+    "year": 2022,
+    "title": "A cortical network processes auditory error signals during human speech production to maintain fluency",
+    "venue": "PLoS Biol 20(2):e3001493",
+    "doi": "10.1371/journal.pbio.3001493"
+   }
+  ],
+  "data_url": "https://github.com/flinkerlab/delayedauditoryfeedback",
+  "host": "GitHub",
+  "formats": [
+   "MATLAB",
+   "Excel"
+  ],
+  "n_participants": null,
+  "task": "speech",
+  "methods": [
+   "delayed auditory feedback"
+  ],
+  "populations": [],
+  "license": "BSD",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Regmi2022_SciRep",
+  "label": "Regmi et al. 2022",
+  "year": 2022,
+  "lab": "Song (Missouri University of Science and Technology)",
+  "papers": [
+   {
+    "authors": "Regmi S, Burns D, Song YS",
+    "year": 2022,
+    "title": "Humans modulate arm stiffness to facilitate motor communication during overground physical human-robot interaction",
+    "venue": "Sci Rep 12(1):18767",
+    "doi": "10.1038/s41598-022-23496-z"
+   }
+  ],
+  "data_url": "https://doi.org/10.7910/dvn/xekvuf",
+  "host": "Harvard Dataverse",
+  "formats": [
+   "Excel"
+  ],
+  "n_participants": null,
+  "task": "other",
+  "methods": [],
+  "populations": [],
+  "license": "CC0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('arm stiffness')"
+  }
+ },
+ {
+  "id": "Lubetzky2021_FrontNeurol",
+  "label": "Lubetzky et al. 2021",
+  "year": 2021,
+  "lab": "Cosetti (Mount Sinai Health System)",
+  "papers": [
+   {
+    "authors": "Lubetzky AV, Kelly JL, Hujsak BD, Liu J, Harel D, Cosetti M",
+    "year": 2021,
+    "title": "Postural and Head Control Given Different Environmental Contexts",
+    "venue": "Front Neurol 12:597404",
+    "doi": "10.3389/fneur.2021.597404"
+   }
+  ],
+  "data_url": "https://doi.org/10.17632/9jwcp78xzf.1",
+  "host": "Mendeley Data",
+  "formats": [],
+  "n_participants": 39,
+  "task": "balance and posture",
+  "methods": [
+   "virtual reality"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the deposit.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Beyvers2022_FrontHumNeurosci",
+  "label": "Beyvers et al. 2022",
+  "year": 2022,
+  "lab": "Fiehler (Justus-Liebig-Universitat Giessen)",
+  "papers": [
+   {
+    "authors": "Beyvers MC, Fraser LE, Fiehler K",
+    "year": 2022,
+    "title": "Linking Signal Relevancy and Intensity in Predictive Tactile Suppression",
+    "venue": "Front Hum Neurosci 16:795886",
+    "doi": "10.3389/fnhum.2022.795886"
+   }
+  ],
+  "data_url": "https://doi.org/10.17605/osf.io/v7q9n",
+  "host": "OSF",
+  "formats": [
+   "text",
+   "ZIP"
+  ],
+  "n_participants": null,
+  "task": "reaching",
+  "methods": [],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Harris2022_SciRep",
+  "label": "Harris et al. 2022",
+  "year": 2022,
+  "lab": "Wilson (University of Exeter)",
+  "papers": [
+   {
+    "authors": "Harris DJ, Arthur T, Vine SJ, Liu J, Abd Rahman HR, Han F, Wilson MR",
+    "year": 2022,
+    "title": "Task-evoked pupillary responses track precision-weighted prediction errors and learning rate during interceptive visuomotor actions",
+    "venue": "Sci Rep 12(1):22098",
+    "doi": "10.1038/s41598-022-26544-w"
+   }
+  ],
+  "data_url": "https://osf.io/z96q8/",
+  "host": "OSF",
+  "formats": [
+   "MATLAB",
+   "Excel",
+   "CSV"
+  ],
+  "n_participants": 44,
+  "task": "eye movements",
+  "methods": [
+   "virtual reality"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('motor decision'); Europe PMC preprint with a motor theory keyword in title/abstract ('motor decision')"
+  }
+ },
+ {
+  "id": "Arthur2021_PsyArXiv",
+  "label": "Arthur & Harris 2021",
+  "year": 2021,
+  "lab": "Harris (University of Exeter)",
+  "papers": [
+   {
+    "authors": "Arthur T, Harris D",
+    "year": 2021,
+    "title": "Predictive eye movements are adjusted in a Bayes-optimal fashion in response to unexpectedly changing environmental probabilities",
+    "venue": "",
+    "doi": "10.31234/osf.io/eh987"
+   }
+  ],
+  "data_url": "https://osf.io/h5nu7/",
+  "host": "OSF",
+  "formats": [
+   "text"
+  ],
+  "n_participants": null,
+  "task": "eye movements",
+  "methods": [
+   "virtual reality"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC preprint with a motor theory keyword in title/abstract ('motor decision')"
+  }
+ },
+ {
+  "id": "Wong2024_JExpPsycholLMC",
+  "label": "Wong et al. 2024",
+  "year": 2024,
+  "lab": "Andrews (The University of Sydney)",
+  "papers": [
+   {
+    "authors": "Wong R, Veldre A, Andrews S",
+    "year": 2024,
+    "title": "Are there independent effects of constraint and predictability on eye movements during reading?",
+    "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition 50(2):331-345",
+    "doi": "10.1037/xlm0001206"
+   }
+  ],
+  "data_url": "https://osf.io/sk7nt/",
+  "host": "OSF",
+  "formats": [
+   "CSV",
+   "text",
+   "R"
+  ],
+  "n_participants": null,
+  "task": "eye movements",
+  "methods": [],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC preprint with a motor theory keyword in title/abstract ('motor decision')"
+  }
+ },
+ {
+  "id": "Spiech2022_PsyArXiv",
+  "label": "Spiech et al. 2022",
+  "year": 2022,
+  "lab": "Danielsen",
+  "papers": [
+   {
+    "authors": "Spiech C, Hope M, Câmara GS, Sioros G, Endestad T, Laeng B, Danielsen A",
+    "year": 2022,
+    "title": "Sensorimotor Synchronization Increases Groove",
+    "venue": "",
+    "doi": "10.31234/osf.io/fw7mh"
+   }
+  ],
+  "data_url": "https://osf.io/t8fpn/",
+  "host": "OSF",
+  "formats": [
+   "R"
+  ],
+  "n_participants": null,
+  "task": "finger tapping and timing",
+  "methods": [
+   "sensorimotor synchronization"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC preprint with a motor theory keyword in title/abstract ('motor decision')"
+  }
+ },
+ {
+  "id": "Tomaschek2021_PsyArXiv",
+  "label": "Tomaschek et al. 2021",
+  "year": 2021,
+  "lab": "Baayen (University of Tubingen)",
+  "papers": [
+   {
+    "authors": "Tomaschek F, Ramscar M, Thiele S, Kaup B, Baayen RH",
+    "year": 2021,
+    "title": "Do embodied effects reflect the consequences rather than the causes of meaning? - \"Ja!\"",
+    "venue": "",
+    "doi": "10.31234/osf.io/9zfp5"
+   }
+  ],
+  "data_url": "https://osf.io/7wdpx/",
+  "host": "OSF",
+  "formats": [
+   "text"
+  ],
+  "n_participants": null,
+  "task": "speech",
+  "methods": [],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC preprint with a motor theory keyword in title/abstract ('internal model')"
+  }
+ },
+ {
+  "id": "StGermain2022_PsyArXiv",
+  "label": "St. Germain et al. 2022",
+  "year": 2022,
+  "lab": "Carter (McMaster University)",
+  "papers": [
+   {
+    "authors": "St. Germain L, McKay B, Poskus A, Williams A, Leshchyshen O, Feldman S, Cashaback JGA, Carter MJ",
+    "year": 2022,
+    "title": "Exercising choice over feedback schedules during practice is not advantageous for motor learning",
+    "venue": "",
+    "doi": "10.31234/osf.io/n52pq"
+   }
+  ],
+  "data_url": "https://github.com/cartermaclab/expt_sc-feedback-characteristics",
+  "host": "GitHub",
+  "formats": [
+   "CSV",
+   "R"
+  ],
+  "n_participants": 228,
+  "task": "reaching",
+  "methods": [],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the deposit.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC preprint with a motor theory keyword in title/abstract ('de novo learning')"
+  }
+ },
+ {
+  "id": "deJonge-Hoekstra2020_PsyArXiv",
+  "label": "de Jonge-Hoekstra et al. 2020",
+  "year": 2020,
+  "lab": "Dixon (University of Connecticut)",
+  "papers": [
+   {
+    "authors": "de Jonge-Hoekstra L, Cox RFA, van der Steen S, Dixon JA",
+    "year": 2020,
+    "title": "Easier said than done? Task difficulty’s influence on temporal alignment, semantic similarity, and complexity matching between gestures and speech",
+    "venue": "",
+    "doi": "10.31234/osf.io/zsjhf"
+   }
+  ],
+  "data_url": "https://osf.io/dj5vr/",
+  "host": "OSF",
+  "formats": [],
+  "n_participants": null,
+  "task": "hand gestures and grasps",
+  "methods": [],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC preprint with a motor theory keyword in title/abstract ('massed practice')"
+  }
+ },
+ {
+  "id": "Wiesing2022_PsyArXiv",
+  "label": "Wiesing & Zimmermann 2022",
+  "year": 2022,
+  "lab": "Zimmermann (Heinrich Heine University Dusseldorf)",
+  "papers": [
+   {
+    "authors": "Wiesing M, Zimmermann E",
+    "year": 2022,
+    "title": "Step by step - Serial dependencies between locomotion and visual space",
+    "venue": "",
+    "doi": "10.31234/osf.io/z5uc9"
+   }
+  ],
+  "data_url": "https://osf.io/pvzx9/",
+  "host": "OSF",
+  "formats": [
+   "text"
+  ],
+  "n_participants": null,
+  "task": "walking",
+  "methods": [
+   "virtual reality"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC preprint with a motor theory keyword in title/abstract ('degrees of freedom problem')"
+  }
  }
 ]
