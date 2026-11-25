@@ -21,7 +21,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import common as C  # noqa: E402
-from terms import ANIMAL, GENERIC, HUMAN, KEY_PAPERS, OFF_TOPIC, OSF_TERMS, PAPER_TERMS, TERMS  # noqa: E402
+from terms import (ANIMAL, GENERIC, HUMAN, KEY_PAPERS, MOTOR_CONTEXT, OFF_TOPIC, OSF_TERMS, PAPER_TERMS, TERMS,  # noqa: E402
+                   THEORY_TERMS)
 
 ALL_PHRASES = [p for ps in TERMS.values() for p in ps]
 PAPER_REL = {"issupplementto", "isreferencedby", "iscitedby", "isdescribedby", "isdocumentedby", "issourceof", "isderivedfrom",
@@ -479,24 +480,38 @@ def epmc_by_dois(h, dois, repo_filter=True, result="lite"):
 
 
 def src_europepmc(h, since, until, ctx):
-    y = int(until[:4])
+    y = ctx.get("pub_to") or int(until[:4])
+    y0 = ctx.get("pub_from") or y - 1                    # backfill runs search the publication years --pub-from to --pub-to
     animals = "NOT TITLE:(mice OR mouse OR rat OR rats OR rodent OR monkey OR monkeys OR macaque OR zebrafish OR drosophila OR songbird OR molecular OR protein)"
     pool = {}
     repo_ids = set()
-    qgroups = [(tag, ps, True) for tag, ps in groups(14)]
-    qgroups += [("broad", PAPER_TERMS[i:i + 10], False) for i in range(0, len(PAPER_TERMS), 10)]
-    for tag, ps, strong in qgroups:
-        base = f'TITLE_ABS:({" OR ".join(chr(34) + p + chr(34) for p in ps)}) AND CREATION_DATE:[{since} TO {until}] AND PUB_YEAR:[{y - 1} TO {y}] {animals}'
+    qgroups = [] if ctx.get("theory_only") else [(tag, ps, True, "") for tag, ps in groups(14)]
+    if not ctx.get("theory_only"):
+        qgroups += [("broad", PAPER_TERMS[i:i + 10], False, "") for i in range(0, len(PAPER_TERMS), 10)]
+    # theory keywords (terms.THEORY_TERMS, JT 2026-11-25): only with a movement word, and only papers that name a
+    # repository are pooled (these phrases are broad, so an unfiltered pool would be large and mostly without data)
+    motor = " OR ".join(chr(34) + w + chr(34) for w in MOTOR_CONTEXT)
+    th = [p for ps in THEORY_TERMS.values() for p in ps]
+    qgroups += [("theory", th[i:i + 12], False, f" AND TITLE_ABS:({motor}) AND {REPO_TERMS}") for i in range(0, len(th), 12)]
+    for tag, ps, strong, extra in qgroups:
+        base = f'TITLE_ABS:({" OR ".join(chr(34) + p + chr(34) for p in ps)}) AND CREATION_DATE:[{since} TO {until}] AND PUB_YEAR:[{y0} TO {y}] {animals}' + extra
+        got = set()
         for r in epmc_search(h, base):
             p = epmc_paper(r, "Europe PMC")
+            got.add(p["doi"])
             if p["doi"] and p["doi"] not in pool:
-                ph = phrases_in(p["title"], ps)
-                p["_why"] = (f"Europe PMC {'preprint' if p['preprint'] else 'paper'} on {tag} ('{ph[0] if ph else ps[0]}' in title/abstract)"
-                             if strong else f"Europe PMC {'preprint' if p['preprint'] else 'paper'} with a broad motor term in title/abstract")
+                ph = phrases_in(p["title"] + (" " + (p.get("abstract") or "") if tag == "theory" else ""), ps)
+                kind = 'preprint' if p['preprint'] else 'paper'
+                p["_why"] = (f"Europe PMC {kind} on {tag} ('{ph[0] if ph else ps[0]}' in title/abstract)" if strong else
+                             f"Europe PMC {kind} with a motor theory keyword in title/abstract ('{ph[0] if ph else ps[0]}')"
+                             if tag == "theory" else f"Europe PMC {kind} with a broad motor term in title/abstract")
                 p["_strong"] = strong
                 pool[p["doi"]] = p
             elif p["doi"] and strong:
                 pool[p["doi"]]["_strong"] = True
+        if extra:   # this query already required a repository mention
+            repo_ids.update(d for d in got if d)
+            continue
         for r in epmc_search(h, base + f" AND {REPO_TERMS}"):
             repo_ids.add(C.norm_doi(r.get("doi")))
     ctx["epmc_pool"] = len(pool)
@@ -950,6 +965,11 @@ def main():
     ap.add_argument("--time-budget", type=float, default=95, help="minutes for all sources; later requests are skipped")
     ap.add_argument("--time-scale", type=float, default=1.0, help="multiplies each source's own time cap (SOURCE_MINUTES)")
     ap.add_argument("--link-budget", type=float, default=25, help="minutes for linking deposits to papers and enrichment")
+    ap.add_argument("--pub-from", type=int, default=None,
+                    help="Europe PMC: search papers published from this year (backfill); default the last two years")
+    ap.add_argument("--pub-to", type=int, default=None, help="Europe PMC: last publication year searched (backfill)")
+    ap.add_argument("--theory-only", action="store_true",
+                    help="Europe PMC: search only the theory keywords (terms.THEORY_TERMS), for a backfill over past years")
     a = ap.parse_args()
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
@@ -968,7 +988,8 @@ def main():
     idx = C.listed_index()
     h = C.Http()
     h.deadline = time.time() + 60 * a.time_budget
-    ctx = {"idx": idx, "authors_path": a.authors, "fulltext_budget": [a.max_fulltext], "watch_old": dict(state.get("watch") or {})}
+    ctx = {"idx": idx, "authors_path": a.authors, "fulltext_budget": [a.max_fulltext], "watch_old": dict(state.get("watch") or {}),
+           "pub_from": a.pub_from, "pub_to": a.pub_to, "theory_only": a.theory_only}
     enabled = set(a.sources.split(","))
     hits, per_source = [], {}
     run_deadline = h.deadline

@@ -57,3 +57,12 @@ Saturday night (US Eastern) and posts a "Weekly finder report YYYY-MM-DD" issue.
 
 Secrets: `CLAUDE_CODE_OAUTH_TOKEN` (required; AI steps only) and `OPENALEX_API_KEY` (optional, free at
 https://openalex.org/settings/api; without it OpenAlex shares a small daily budget per IP address).
+
+## Theory keywords and backfill (2026-11-25)
+
+The Europe PMC search also uses the theory keywords in `terms.THEORY_TERMS`: phrases for the 45 theories of the
+paper's theory codebook, placed in the stages of two reviews (sensing, planning and acting, Leib et al. 2024; learning,
+Krakauer et al. 2019). They count only with a movement word (`terms.MOTOR_CONTEXT`) and a repository mention, and the
+papers they find go through the same screen. To add past studies, run the workflow by hand with `backfill_years`
+(for example `2016-2019`): it searches only these keywords, for papers published in those years. On 2024 papers the
+search step alone gave 50 new candidates with a data link (before screening).
