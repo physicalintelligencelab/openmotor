@@ -203,7 +203,7 @@ def main():
     if (C.WORK / "authors.json").exists():
         files["source/finder/authors.json"] = (C.WORK / "authors.json").read_bytes()
     msg = (f"Weekly finder {today}: list {len(entries)} new studies, standardize "
-           f"{sum(o['status'] == 'released' for o in outcome)}, skip {sum(o['status'] == 'skipped' or o.get('final') for o in outcome)}")
+           f"{sum(o['status'] == 'released' for o in outcome)}, skip {sum(bool(o['status'] == 'skipped' or o.get('final')) for o in outcome)}")
     for attempt in range(6):
         git("fetch", "-q", "origin", "main")
         git("reset", "-q", "--hard", "origin/main")
