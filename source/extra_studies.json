@@ -43824,5 +43824,232 @@
    "finder": "2026-11-25",
    "how": "a deposit is titled like the paper (Zenodo)"
   }
+ },
+ {
+  "id": "Orlando2024_BrainCommun",
+  "label": "Orlando et al. 2024",
+  "year": 2024,
+  "lab": "OCallaghan (The University of Sydney)",
+  "papers": [
+   {
+    "authors": "Orlando IF, Hezemans FH, Ye R, Murley AG, Holland N, Regenthal R, Barker RA, Williams-Gray CH, Passamonti L, Robbins TW, Rowe JB, O’Callaghan C",
+    "year": 2024,
+    "title": "Noradrenergic modulation of saccades in Parkinson’s disease",
+    "venue": "Brain Communications 6(5):fcae297",
+    "doi": "10.1093/braincomms/fcae297"
+   }
+  ],
+  "data_url": "https://osf.io/zcrek/",
+  "host": "OSF",
+  "formats": [
+   "R"
+  ],
+  "n_participants": 44,
+  "task": "eye movements",
+  "methods": [],
+  "populations": [
+   "Parkinson's disease"
+  ],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('optimal feedback control')"
+  }
+ },
+ {
+  "id": "Czilczer2025_PsyArXiv",
+  "label": "Czilczer et al. 2025",
+  "year": 2025,
+  "lab": "Dahm (Universitat Innsbruck)",
+  "papers": [
+   {
+    "authors": "Czilczer C, Sachse P, Dahm SF",
+    "year": 2025,
+    "title": "One size Fitts’ all? Reconsidering the use of deviations from real-time action imagery in mental chronometry tasks",
+    "venue": "",
+    "doi": "10.31234/osf.io/c2mw6_v2"
+   }
+  ],
+  "data_url": "https://osf.io/t7xjc/",
+  "host": "OSF",
+  "formats": [
+   "R"
+  ],
+  "n_participants": 30,
+  "task": "reaching",
+  "methods": [
+   "Fitts' law pointing"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC preprint with a motor theory keyword in title/abstract ('optimal feedback control')"
+  }
+ },
+ {
+  "id": "Pome2025_PNAS",
+  "label": "Pome & Zimmermann 2025",
+  "year": 2025,
+  "lab": "Zimmermann (Heinrich Heine University Dusseldorf)",
+  "papers": [
+   {
+    "authors": "Pomè A, Zimmermann E",
+    "year": 2025,
+    "title": "Disrupted sensorimotor predictions in high autistic characteristics",
+    "venue": "Proc Natl Acad Sci USA 122(17):e2501624122",
+    "doi": "10.1073/pnas.2501624122"
+   }
+  ],
+  "data_url": "https://doi.org/10.5281/zenodo.14699758",
+  "host": "Zenodo",
+  "formats": [
+   "Excel"
+  ],
+  "n_participants": null,
+  "task": "eye movements",
+  "methods": [
+   "saccade adaptation"
+  ],
+  "populations": [
+   "autism"
+  ],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Lee2025_Sensors",
+  "label": "Lee et al. 2025",
+  "year": 2025,
+  "lab": "Kim (Handong Global University)",
+  "papers": [
+   {
+    "authors": "Lee J, Han K, Choi W, Kim J",
+    "year": 2025,
+    "title": "Visuomotor Control Accuracy of Circular Tracking Movement According to Visual Information in Virtual Space",
+    "venue": "Sensors 25(19):5998",
+    "doi": "10.3390/s25195998"
+   }
+  ],
+  "data_url": "https://osf.io/qpnwz/",
+  "host": "OSF",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": 27,
+  "task": "tracking",
+  "methods": [
+   "virtual reality"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Kirsch2023_SciRep",
+  "label": "Kirsch & Kunde 2023",
+  "year": 2023,
+  "lab": "Kunde (University of Wurzburg)",
+  "papers": [
+   {
+    "authors": "Kirsch W, Kunde W",
+    "year": 2023,
+    "title": "Changes in body perception following virtual object manipulation are accompanied by changes of the internal reference scale",
+    "venue": "Sci Rep 13(1):7137",
+    "doi": "10.1038/s41598-023-34311-8"
+   }
+  ],
+  "data_url": "https://osf.io/7s4za/",
+  "host": "OSF",
+  "formats": [
+   "SPSS"
+  ],
+  "n_participants": null,
+  "task": "hand gestures and grasps",
+  "methods": [],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Zhang2025_FrontNeurosci",
+  "label": "Zhang et al. 2025",
+  "year": 2025,
+  "lab": "Chen (Yunnan Normal University)",
+  "papers": [
+   {
+    "authors": "Zhang X, Lv Z, Jin X, Yun L, Zhao G, Chen Z",
+    "year": 2025,
+    "title": "Multimodal neurobehavioral integration in binocular color rivalry: cortical-eye movement analysis under color, location, and combined stimuli",
+    "venue": "Front Neurosci 19:1664583",
+    "doi": "10.3389/fnins.2025.1664583"
+   }
+  ],
+  "data_url": "https://doi.org/10.6084/m9.figshare.29551169.v1",
+  "host": "Figshare",
+  "formats": [
+   "Excel"
+  ],
+  "n_participants": null,
+  "task": "eye movements",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Ivaniski-Mello2024_EurJApplPhysiol",
+  "label": "Ivaniski-Mello et al. 2024",
+  "year": 2024,
+  "lab": "Peyre-Tartaruga (Universidade Federal do Rio Grande do Sul)",
+  "papers": [
+   {
+    "authors": "Ivaniski-Mello A, Cubillos-Arcila DM, Dell’Anna S, de Liz Alves L, Martinez FG, Buzzachera CF, Saute JAM, Peyré-Tartaruga LA",
+    "year": 2024,
+    "title": "Postural adjustments and perceptual responses of Nordic running: concurrent effects of poles and irregular terrain",
+    "venue": "Eur J Appl Physiol 124(6):1733-1745",
+    "doi": "10.1007/s00421-023-05397-9"
+   }
+  ],
+  "data_url": "https://doi.org/10.6084/m9.figshare.22122782",
+  "host": "Figshare",
+  "formats": [
+   "Excel"
+  ],
+  "n_participants": 13,
+  "task": "running",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
  }
 ]
