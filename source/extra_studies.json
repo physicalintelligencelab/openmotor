@@ -43028,5 +43028,801 @@
   ],
   "lab": "Mugge (Delft University of Technology)",
   "extra_tags": []
+ },
+ {
+  "id": "Pan2026_bioRxiv",
+  "label": "Pan et al. 2026",
+  "year": 2026,
+  "lab": "Albouy (University of Utah)",
+  "papers": [
+   {
+    "authors": "Pan X, Taylor J, Violante IR, Grossman N, Inman C, King BR, Albouy G",
+    "year": 2026,
+    "title": "Non-invasive temporal interference stimulation targeting the hippocampus enhances fast motor memory consolidation",
+    "venue": "",
+    "doi": "10.64898/2026.11.11.766003"
+   }
+  ],
+  "data_url": "https://zenodo.org/records/24180455",
+  "host": "Zenodo",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": 64,
+  "task": "sequence learning",
+  "methods": [
+   "sequence learning",
+   "brain stimulation"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Zenodo dataset matching 'motor memory'; DataCite dataset (Zenodo) matching 'motor memory'; a deposit is titled like the paper (Zenodo)"
+  }
+ },
+ {
+  "id": "Beattie2026_SciData",
+  "label": "Beattie et al. 2026",
+  "year": 2026,
+  "lab": "Karjalainen (University of Eastern Finland)",
+  "papers": [
+   {
+    "authors": "Beattie AK, Kortelainen MJ, Vartiainen P, Karjalainen PA",
+    "year": 2026,
+    "title": "Full-body motion data from 13 healthy participants with motion capture, IMU, and EMG data",
+    "venue": "Sci Data",
+    "doi": "10.1038/s41597-026-08550-z"
+   }
+  ],
+  "data_url": "https://zenodo.org/records/24194741",
+  "host": "Zenodo",
+  "formats": [
+   "CSV",
+   "text",
+   "ZIP"
+  ],
+  "n_participants": 13,
+  "task": "other",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Zenodo dataset matching 'split-belt'; DataCite dataset (Zenodo) matching 'split-belt'"
+  }
+ },
+ {
+  "id": "Wong2025_bioRxiv",
+  "label": "Wong et al. 2025",
+  "year": 2025,
+  "lab": "McCrum (Maastricht University)",
+  "papers": [
+   {
+    "authors": "Wong P, Yeh I, Mansfield A, McCrum C",
+    "year": 2025,
+    "title": "The impact of perturbation intensity schedule on improvements in reactive balance control in young adults: an experimental study",
+    "venue": "",
+    "doi": "10.1101/2025.02.05.636697"
+   }
+  ],
+  "data_url": "https://zenodo.org/records/24484043",
+  "host": "Zenodo",
+  "formats": [
+   "CSV"
+  ],
+  "n_participants": 36,
+  "task": "balance and posture",
+  "methods": [
+   "mechanical perturbations"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Zenodo dataset matching 'reactive balance'; DataCite dataset (Zenodo) matching 'reactive balance'"
+  }
+ },
+ {
+  "id": "Concha-Perez2026_Bioengineering",
+  "label": "Concha-Perez et al. 2026",
+  "year": 2026,
+  "lab": "Concha-Perez (Tecnologico Nacional de Mexico)",
+  "papers": [
+   {
+    "authors": "Concha-Pérez E, Reyes-Avendaño JA, Gonzalez-Hernandez HG, Concha-Pérez M",
+    "year": 2026,
+    "title": "Systematic Evaluation of sEMG Processing Pipelines for Gesture Recognition",
+    "venue": "Bioengineering 13(9):1019",
+    "doi": "10.3390/bioengineering13091019"
+   }
+  ],
+  "data_url": "https://zenodo.org/records/24046852",
+  "host": "Zenodo",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": 61,
+  "task": "hand gestures and grasps",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Zenodo dataset matching 'hand gestures'; DataCite dataset (Zenodo) matching 'hand gestures'"
+  }
+ },
+ {
+  "id": "Kettner2026_SSRN",
+  "label": "Kettner et al. 2026",
+  "year": 2026,
+  "lab": "Stein (Karlsruhe Institute of Technology)",
+  "papers": [
+   {
+    "authors": "Kettner C, Beyerlein M, Marquardt C, Dežman M, Asfour T, Stein T",
+    "year": 2026,
+    "title": "Ankle exoskeleton assistance increases task-relevant variability without altering center of mass control during walking",
+    "venue": "",
+    "doi": "10.2139/ssrn.6578662"
+   }
+  ],
+  "data_url": "https://doi.org/10.35097/rcbbfv1mzyk1cdyn",
+  "host": "other",
+  "formats": [],
+  "n_participants": 20,
+  "task": "walking",
+  "methods": [
+   "exoskeleton or prosthesis"
+  ],
+  "populations": [],
+  "license": "CC BY-SA 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "DataCite dataset (Karlsruhe Institute of Technology) matching 'motor variability'"
+  }
+ },
+ {
+  "id": "Kettner2026_JNER",
+  "label": "Kettner et al. 2026",
+  "year": 2026,
+  "lab": "Stein (Karlsruhe Institute of Technology)",
+  "papers": [
+   {
+    "authors": "Kettner C, Beyerlein M, Marquardt C, Dežman M, Asfour T, Stein T",
+    "year": 2026,
+    "title": "Effects of an actuated ankle exoskeleton on walking stability in healthy adults: a controlled laboratory study",
+    "venue": "J NeuroEngineering Rehabil 23(1):261",
+    "doi": "10.1186/s12984-026-02151-y"
+   }
+  ],
+  "data_url": "https://doi.org/10.35097/x25gbrmxhkqwt6zx",
+  "host": "other",
+  "formats": [],
+  "n_participants": 18,
+  "task": "walking",
+  "methods": [
+   "exoskeleton or prosthesis"
+  ],
+  "populations": [],
+  "license": "CC BY-SA 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "DataCite dataset (Karlsruhe Institute of Technology) matching 'motor control'"
+  }
+ },
+ {
+  "id": "Kettner2026_JournalBiomechanics",
+  "label": "Kettner et al. 2026",
+  "year": 2026,
+  "lab": "Stein (Karlsruhe Institute of Technology)",
+  "papers": [
+   {
+    "authors": "Kettner C, Herzog M, Stein T",
+    "year": 2026,
+    "title": "Self-paced treadmill speed differentially affects gait variability and stability in walking and running",
+    "venue": "Journal of Biomechanics 206:113500",
+    "doi": "10.1016/j.jbiomech.2026.113500"
+   }
+  ],
+  "data_url": "https://doi.org/10.35097/xg30xzav40epge3c",
+  "host": "other",
+  "formats": [],
+  "n_participants": 28,
+  "task": "walking",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY-SA 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "DataCite dataset (Karlsruhe Institute of Technology) matching 'gait variability'"
+  }
+ },
+ {
+  "id": "RochadeOliveira2026_InternationalJournalHumanCom",
+  "label": "Rocha de Oliveira et al. 2026",
+  "year": 2026,
+  "lab": "Orsi Medola (Universidade Estadual Paulista (Unesp))",
+  "papers": [
+   {
+    "authors": "Rocha de Oliveira PC, Barbieri FA, Orsi Medola F",
+    "year": 2026,
+    "title": "How Touchscreen Gestures and Component Design Affect Gait Kinematics During Smartphone Use While Walking",
+    "venue": "International Journal of Human–Computer Interaction",
+    "doi": "10.1080/10447318.2026.2762651"
+   }
+  ],
+  "data_url": "https://tandf.figshare.com/articles/dataset/How_Touchscreen_Gestures_and_Component_Design_Affect_Gait_Kinematics_During_Smartphone_Use_While_Walking/35102220",
+  "host": "Figshare",
+  "formats": [
+   "Excel",
+   "ZIP"
+  ],
+  "n_participants": 31,
+  "task": "walking",
+  "methods": [
+   "dual task"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "DataCite dataset (Taylor & Francis) matching 'gait kinematics'; Figshare dataset matching 'gait kinematics'"
+  }
+ },
+ {
+  "id": "Seiler2025_UniversittsundLandesbibliothekDarmstadt",
+  "label": "Seiler et al. 2025",
+  "year": 2025,
+  "lab": "Kupnik",
+  "papers": [
+   {
+    "authors": "Seiler J, Suppelt M, Wilhelm R, Beckerle P, Kupnik M",
+    "year": 2025,
+    "title": "Real-Time Gait Phase Estimation Based on Textile Integrated Ferroelectrets and Adaptive Oscillators",
+    "venue": "",
+    "doi": "10.26083/tuprints-00030981"
+   }
+  ],
+  "data_url": "https://doi.org/10.48328/tudatalib-2246",
+  "host": "other",
+  "formats": [],
+  "n_participants": 1,
+  "task": "walking",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "DataCite dataset (Technische Universität Darmstadt) matching 'gait analysis'"
+  }
+ },
+ {
+  "id": "Kettner2026_SSRNb",
+  "label": "Kettner et al. 2026",
+  "year": 2026,
+  "lab": "Stein (Karlsruhe Institute of Technology)",
+  "papers": [
+   {
+    "authors": "Kettner C, Zengerle VA, Stein T",
+    "year": 2026,
+    "title": "<p>Differences in Running Kinematics and Stride-to-Stride Variability between Self-Paced Treadmill and Overground Running on Two Surfaces</p>",
+    "venue": "",
+    "doi": "10.2139/ssrn.6661088"
+   }
+  ],
+  "data_url": "https://doi.org/10.35097/0gfubm7ae1e7v7zx",
+  "host": "other",
+  "formats": [],
+  "n_participants": 21,
+  "task": "running",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY-SA 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "DataCite dataset (Karlsruhe Institute of Technology) matching 'gait analysis'"
+  }
+ },
+ {
+  "id": "Gianferrara2025_bioRxiv",
+  "label": "Gianferrara et al. 2025",
+  "year": 2025,
+  "lab": "Joiner (University of California, Davis)",
+  "papers": [
+   {
+    "authors": "Gianferrara PG, Zhou W, Lesh TA, Hanks TD, Edelman CL, Carter CS, Joiner WM",
+    "year": 2025,
+    "title": "Computational Characterization of Decision Making During Trans-saccadic Visual Perception",
+    "venue": "",
+    "doi": "10.1101/2025.10.07.680872"
+   }
+  ],
+  "data_url": "https://figshare.com/articles/dataset/Computational_Characterization_of_Decision_Making_During_Trans-saccadic_Visual_Perception/30090127/8",
+  "host": "Figshare",
+  "formats": [
+   "text",
+   "MATLAB",
+   "CSV"
+  ],
+  "n_participants": 29,
+  "task": "eye movements",
+  "methods": [
+   "cursor or target jumps"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "DataCite dataset (figshare) matching 'saccadic eye movements'"
+  }
+ },
+ {
+  "id": "Rousseau2024_Sensors",
+  "label": "Rousseau et al. 2024",
+  "year": 2024,
+  "lab": "Hernandez (The University of Tokyo)",
+  "papers": [
+   {
+    "authors": "Rousseau T, Venture G, Hernandez V",
+    "year": 2024,
+    "title": "Latent Space Representation of Human Movement: Assessing the Effects of Fatigue",
+    "venue": "Sensors 24(23):7775",
+    "doi": "10.3390/s24237775"
+   }
+  ],
+  "data_url": "https://zenodo.org/records/18844906",
+  "host": "Zenodo",
+  "formats": [],
+  "n_participants": 10,
+  "task": "sports and games",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY-NC 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "DataCite dataset (Zenodo) matching 'center of pressure'"
+  }
+ },
+ {
+  "id": "Ohsawa2025_SSRN",
+  "label": "Ohsawa et al. 2025",
+  "year": 2025,
+  "lab": "Suzuki (Kanagawa University of Human Services)",
+  "papers": [
+   {
+    "authors": "Ohsawa H, Sato R, Kanzaki F, Yamada N, Takenaka Y, Sugawara K, Suzuki T",
+    "year": 2025,
+    "title": "Effects of Conflict-Induced Cognitive Load on Reactive Turning Strategy and Postural Control Timing",
+    "venue": "",
+    "doi": "10.2139/ssrn.5378315"
+   }
+  ],
+  "data_url": "https://doi.org/10.17632/bndf7fm3m7",
+  "host": "Mendeley Data",
+  "formats": [],
+  "n_participants": 19,
+  "task": "balance and posture",
+  "methods": [
+   "dual task"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "DataCite dataset (Mendeley Data) matching 'postural control'"
+  }
+ },
+ {
+  "id": "Piazza2026_PsyArXiv",
+  "label": "Piazza et al. 2026",
+  "year": 2026,
+  "lab": "Kartushina",
+  "papers": [
+   {
+    "authors": "Piazza G, Souganidis C, Flege JE, Martin C, Kartushina N",
+    "year": 2026,
+    "title": "Home or Lab? Effects of Recording Environment and Experimenter Presence on Speech Production Acoustics",
+    "venue": "",
+    "doi": "10.31234/osf.io/et65s_v1"
+   }
+  ],
+  "data_url": "https://osf.io/95hzr/",
+  "host": "OSF",
+  "formats": [
+   "text"
+  ],
+  "n_participants": 96,
+  "task": "speech",
+  "methods": [],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "OSF preprint matching 'speech production'; OpenAlex: new work by Clara D. Martin, last author of a listed study"
+  }
+ },
+ {
+  "id": "Tani2026_iScience",
+  "label": "Tani et al. 2026",
+  "year": 2026,
+  "lab": "Kushiro (Kyoto University)",
+  "papers": [
+   {
+    "authors": "Tani K, Okuuchi S, Hirose S, Kushiro K",
+    "year": 2026,
+    "title": "Reaction time-related compression underlies overestimation of time-constrained reachability",
+    "venue": "iScience 29(11):118115",
+    "doi": "10.1016/j.isci.2026.118115"
+   }
+  ],
+  "data_url": "https://doi.org/10.17605/osf.io/m823y",
+  "host": "OSF",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": 52,
+  "task": "reaching",
+  "methods": [
+   "Fitts' law pointing"
+  ],
+  "populations": [],
+  "license": "CC BY-NC 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper on reaching ('implicit recalibration' in title/abstract)"
+  }
+ },
+ {
+  "id": "Niezgoda2026_FrontRobotAI",
+  "label": "Niezgoda & Kalatazis 2026",
+  "year": 2026,
+  "lab": "Kalatazis (Cleveland State University)",
+  "papers": [
+   {
+    "authors": "Niezgoda J, Kalatazis A",
+    "year": 2026,
+    "title": "Surface electromyography onset-based processing for control of a robotic arm",
+    "venue": "Front Robot AI 13:1968921",
+    "doi": "10.3389/frobt.2026.1968921"
+   }
+  ],
+  "data_url": "https://github.com/j-niez/emg-to-ros",
+  "host": "GitHub",
+  "formats": [
+   "CSV",
+   "Python"
+  ],
+  "n_participants": 1,
+  "task": "other",
+  "methods": [
+   "exoskeleton or prosthesis"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the deposit.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper on reaching ('interlimb transfer' in title/abstract)"
+  }
+ },
+ {
+  "id": "Tsuda2026_npjSciLearn",
+  "label": "Tsuda et al. 2026",
+  "year": 2026,
+  "lab": "Noda (Advanced Telecommunications Research Institute International)",
+  "papers": [
+   {
+    "authors": "Tsuda A, Manalo E, Teramae T, Noda T",
+    "year": 2026,
+    "title": "Unveiling the impact of goal types: enhancing self-efficacy in rehabilitation robotics",
+    "venue": "npj Sci Learn 11(1):62",
+    "doi": "10.1038/s41539-026-00444-4"
+   }
+  ],
+  "data_url": "https://osf.io/hjd3r/",
+  "host": "OSF",
+  "formats": [
+   "CSV"
+  ],
+  "n_participants": 100,
+  "task": "robot-assisted training",
+  "methods": [],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper on reaching ('interlimb transfer' in title/abstract)"
+  }
+ },
+ {
+  "id": "Irani2026_SciData",
+  "label": "Irani et al. 2026",
+  "year": 2026,
+  "lab": "Moradi (University of Tehran)",
+  "papers": [
+   {
+    "authors": "Irani A, Haghbin Y, Dadkhah M, Sedaghati F, Maroof S, Rohani M, Emamikhah M, Habibi SAH, Hosseini R, Moradi H",
+    "year": 2026,
+    "title": "A multimodal mobile dataset for Parkinson’s disease symptom assessment",
+    "venue": "Sci Data 13(1):1587",
+    "doi": "10.1038/s41597-026-07903-y"
+   }
+  ],
+  "data_url": "https://doi.org/10.5281/zenodo.19597742",
+  "host": "Zenodo",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": 151,
+  "task": "handwriting and drawing",
+  "methods": [],
+  "populations": [
+   "Parkinson's disease"
+  ],
+  "license": "MIT",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper on reaching ('motor skill learning' in title/abstract)"
+  }
+ },
+ {
+  "id": "Agostini2026_JNER",
+  "label": "Agostini et al. 2026",
+  "year": 2026,
+  "lab": "Fabio",
+  "papers": [
+   {
+    "authors": "Agostini B, Vaghi G, Corrado M, Grillo V, Martinis L, Gjini M, Campese I, Giraudo M, Cammarota F, Ravaglia S, Croce MG, De Giorgis V, Politano D, Castiglia SF, Trabassi D, Serrao M, Danesino C, Guala A, Tassorelli C, De Icco R, the “ABC Study Group”, Chiara B, Angelina C, Claudia D, Alessandro F, Elena LM, Michela M, Sabrina M, Matelda M, Luilena M, Marilena P, Giovanna P, Irene S, Chiarella S, Elisabetta S, Fabio T",
+    "year": 2026,
+    "title": "Clinical and instrumental phenotyping of gait in subjects with Cri du Chat syndrome",
+    "venue": "J NeuroEngineering Rehabil 23(1):326",
+    "doi": "10.1186/s12984-026-02123-2"
+   }
+  ],
+  "data_url": "https://doi.org/10.5281/zenodo.17278902",
+  "host": "Zenodo",
+  "formats": [],
+  "n_participants": 77,
+  "task": "walking",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper on walking ('split-belt' in title/abstract)"
+  }
+ },
+ {
+  "id": "Woon2026_FrontHumNeurosci",
+  "label": "Woon et al. 2026",
+  "year": 2026,
+  "lab": "Earle (University of Delaware)",
+  "papers": [
+   {
+    "authors": "Woon FT, Seidl A, Earle FS",
+    "year": 2026,
+    "title": "Bite-block effects on native s/ʃ and English r/l in child speakers of a language with/without this contrast",
+    "venue": "Front Hum Neurosci 20:1949253",
+    "doi": "10.3389/fnhum.2026.1949253"
+   }
+  ],
+  "data_url": "https://osf.io/t8hj2/",
+  "host": "OSF",
+  "formats": [
+   "Python"
+  ],
+  "n_participants": null,
+  "task": "speech",
+  "methods": [
+   "mechanical perturbations"
+  ],
+  "populations": [
+   "children"
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper on speech ('speech kinematics' in title/abstract)"
+  }
+ },
+ {
+  "id": "Borowiecki2026_FrontNeurosci",
+  "label": "Borowiecki & Olszewska 2026",
+  "year": 2026,
+  "lab": "Olszewska (Instytut Biologii Doswiadczalnej im. Marcelego Nenckiego)",
+  "papers": [
+   {
+    "authors": "Borowiecki O, Olszewska AM",
+    "year": 2026,
+    "title": "Perceptual versus memory-guided affordances: training-related adaptations in a spatial computer game",
+    "venue": "Front Neurosci 20:1736859",
+    "doi": "10.3389/fnins.2026.1736859"
+   }
+  ],
+  "data_url": "https://osf.io/a9z63/",
+  "host": "OSF",
+  "formats": [
+   "text",
+   "Python",
+   "ZIP"
+  ],
+  "n_participants": 25,
+  "task": "sequence learning",
+  "methods": [
+   "sequence learning"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper on sequence learning ('sequence learning' in title/abstract); OpenAlex: cites Nissen & Bullemer 1987, serial reaction time task"
+  }
+ },
+ {
+  "id": "Alshehri2026_JClinMed",
+  "label": "Alshehri et al. 2026",
+  "year": 2026,
+  "lab": "Al Ahmari (Prince Sultan Military Medical City)",
+  "papers": [
+   {
+    "authors": "Alshehri SHS, Algarni N, Alkhamis BA, Koura GM, Elshiwi AMF, Kardm SM, Alqahtani AAS, Reddy RS, Gautam AP, Ali ZA, Al Ahmari MY",
+    "year": 2026,
+    "title": "Residual Postural-Control Differences After Anterior Cruciate Ligament Reconstruction: Dual-Task Postural Control and Associations with Time Since Return to Sport",
+    "venue": "J Clin Med 15(21):8699",
+    "doi": "10.3390/jcm15218699"
+   }
+  ],
+  "data_url": "https://doi.org/10.5281/zenodo.23313883",
+  "host": "Zenodo",
+  "formats": [
+   "Excel"
+  ],
+  "n_participants": 70,
+  "task": "balance and posture",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper on balance and posture ('postural control' in title/abstract)"
+  }
+ },
+ {
+  "id": "Zhou2026_PLoSONE",
+  "label": "Zhou et al. 2026",
+  "year": 2026,
+  "lab": "Tanaka (Chulalongkorn University)",
+  "papers": [
+   {
+    "authors": "Zhou Y, McLaurin NN, Böcker J, Chilibeck PD, Taivassalo T, Forbes SC, Pesta D, Rittweger J, Tanaka H",
+    "year": 2026,
+    "title": "Age-related slowing of sensorimotor reaction time in masters track and field athletes",
+    "venue": "PLoS One 21(11):e0360641",
+    "doi": "10.1371/journal.pone.0360641"
+   }
+  ],
+  "data_url": "https://osf.io/h75rp/",
+  "host": "OSF",
+  "formats": [],
+  "n_participants": 182,
+  "task": "other",
+  "methods": [],
+  "populations": [
+   "older adults"
+  ],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC paper with a broad motor term in title/abstract"
+  }
+ },
+ {
+  "id": "Brohl2026_bioRxiv",
+  "label": "Brohl et al. 2026",
+  "year": 2026,
+  "lab": "Spitzer (Max Planck Institute for Human Development)",
+  "papers": [
+   {
+    "authors": "Bröhl F, Bielefeldt AA, Linde-Domingo J, Spitzer BJ",
+    "year": 2026,
+    "title": "Temporal Dynamics of Multi-Item Working Memory Maintenance in Human Gaze Patterns and EEG",
+    "venue": "",
+    "doi": "10.64898/2026.11.09.765261"
+   }
+  ],
+  "data_url": "https://doi.org/10.5281/zenodo.23943008",
+  "host": "Zenodo",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": null,
+  "task": "eye movements",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "Europe PMC preprint with a broad motor term in title/abstract"
+  }
+ },
+ {
+  "id": "Mehta2026_ResearchSquare",
+  "label": "Mehta et al. 2026",
+  "year": 2026,
+  "lab": "Bongers (University Medical Center Groningen)",
+  "papers": [
+   {
+    "authors": "Mehta A, Smith J, Travieso D, Bongers RM",
+    "year": 2026,
+    "title": "Variability and not predictability of target location influences search behaviour in de-novo skill learning",
+    "venue": "",
+    "doi": "10.21203/rs.3.rs-11594118/v1"
+   }
+  ],
+  "data_url": "https://zenodo.org/records/22638709",
+  "host": "Zenodo",
+  "formats": [
+   "MATLAB"
+  ],
+  "n_participants": null,
+  "task": "other",
+  "methods": [
+   "de novo learning"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-25",
+   "how": "a deposit is titled like the paper (Zenodo)"
+  }
  }
 ]

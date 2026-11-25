@@ -1,0 +1,3037 @@
+{
+ "last_run": "2026-11-25",
+ "seen": {
+  "doi:10.64898/2026.11.11.766003": "2026-11-25",
+  "zenodo:24180454": "2026-11-25",
+  "zenodo:24180455": "2026-11-25",
+  "doi:10.1007/s12311-026-02100-4": "2026-11-25",
+  "zenodo:24130699": "2026-11-25",
+  "zenodo:24130700": "2026-11-25",
+  "doi:10.1038/s41597-026-08550-z": "2026-11-25",
+  "zenodo:17826877": "2026-11-25",
+  "zenodo:24194741": "2026-11-25",
+  "doi:10.1101/2025.02.05.636697": "2026-11-25",
+  "zenodo:24484042": "2026-11-25",
+  "zenodo:24484043": "2026-11-25",
+  "doi:10.1186/s12877-026-08727-6": "2026-11-25",
+  "zenodo:22645225": "2026-11-25",
+  "zenodo:24215115": "2026-11-25",
+  "doi:10.1371/journal.pone.0006791": "2026-11-25",
+  "zenodo:22936697": "2026-11-25",
+  "zenodo:22936698": "2026-11-25",
+  "doi:10.1016/j.patcog.2018.01.013": "2026-11-25",
+  "zenodo:23864365": "2026-11-25",
+  "zenodo:23864366": "2026-11-25",
+  "doi:10.3390/bioengineering13091019": "2026-11-25",
+  "zenodo:24046851": "2026-11-25",
+  "zenodo:24046852": "2026-11-25",
+  "doi:10.2139/ssrn.6578662": "2026-11-25",
+  "doi:10.35097/rcbbfv1mzyk1cdyn": "2026-11-25",
+  "url:radar.kit.edu/radar/en/dataset/rcbbfv1mzyk1cdyn": "2026-11-25",
+  "doi:10.21203/rs.3.rs-8926912/v1": "2026-11-25",
+  "doi:10.35097/x25gbrmxhkqwt6zx": "2026-11-25",
+  "url:radar.kit.edu/radar/en/dataset/x25gbrmxhkqwt6zx": "2026-11-25",
+  "doi:10.1016/j.jbiomech.2021.110665": "2026-11-25",
+  "figshare:32288943": "2026-11-25",
+  "doi:10.1109/ro-man72286.2026.11714992": "2026-11-25",
+  "doi:10.4121/c768180e-45bb-4006-bdf1-6183fcc0d961": "2026-11-25",
+  "url:data.4tu.nl/datasets/c768180e-45bb-4006-bdf1-6183fcc0d961": "2026-11-25",
+  "url:data.4tu.nl/datasets/c768180e-45bb-4006-bdf1-6183fcc0d961/1": "2026-11-25",
+  "doi:10.1016/j.jbiomech.2026.113500": "2026-11-25",
+  "doi:10.35097/xg30xzav40epge3c": "2026-11-25",
+  "url:radar.kit.edu/radar/en/dataset/xg30xzav40epge3c": "2026-11-25",
+  "doi:10.1179/016164107x230775": "2026-11-25",
+  "doi:10.13026/rjsm-p475": "2026-11-25",
+  "doi:10.13026/t5tx-6077": "2026-11-25",
+  "physionet:scai-sci-gait": "2026-11-25",
+  "doi:10.1080/10447318.2026.2762651": "2026-11-25",
+  "figshare:35102220": "2026-11-25",
+  "doi:10.26083/tuprints-00030981": "2026-11-25",
+  "doi:10.48328/tudatalib-2246": "2026-11-25",
+  "url:tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/5157": "2026-11-25",
+  "doi:10.2139/ssrn.6661088": "2026-11-25",
+  "doi:10.35097/0gfubm7ae1e7v7zx": "2026-11-25",
+  "url:radar.kit.edu/radar/en/dataset/0gfubm7ae1e7v7zx": "2026-11-25",
+  "doi:10.1101/2025.10.07.680872": "2026-11-25",
+  "figshare:30090127": "2026-11-25",
+  "doi:10.1080/19942060.2026.2678010": "2026-11-25",
+  "figshare:32993520": "2026-11-25",
+  "doi:10.1109/toh.2026.3750593": "2026-11-25",
+  "doi:10.4121/87001e94-7bc9-41a3-8aa9-8ee1cdae0597": "2026-11-25",
+  "url:data.4tu.nl/datasets/87001e94-7bc9-41a3-8aa9-8ee1cdae0597/2": "2026-11-25",
+  "doi:10.3390/s24237775": "2026-11-25",
+  "zenodo:18844906": "2026-11-25",
+  "doi:10.2139/ssrn.5378315": "2026-11-25",
+  "mendeley:bndf7fm3m7": "2026-11-25",
+  "doi:10.1371/journal.pone.0361481": "2026-11-25",
+  "figshare:34984554": "2026-11-25",
+  "doi:10.1371/journal.pdig.0001864": "2026-11-25",
+  "figshare:35110580": "2026-11-25",
+  "doi:10.1371/journal.pone.0362395": "2026-11-25",
+  "figshare:34996428": "2026-11-25",
+  "doi:10.1371/journal.pone.0362954": "2026-11-25",
+  "figshare:35067917": "2026-11-25",
+  "doi:10.1371/journal.pone.0361909": "2026-11-25",
+  "figshare:35121101": "2026-11-25",
+  "doi:10.1016/j.jchemneu.2017.08.003": "2026-11-25",
+  "osf:4c2b8": "2026-11-25",
+  "doi:10.31235/osf.io/2muq4_v2": "2026-11-25",
+  "zenodo:24212858": "2026-11-25",
+  "doi:10.17605/osf.io/9ygjc": "2026-11-25",
+  "openneuro:ds003478": "2026-11-25",
+  "doi:10.31234/osf.io/zm9s6_v3": "2026-11-25",
+  "osf:g6a2u": "2026-11-25",
+  "doi:10.31234/osf.io/et65s_v1": "2026-11-25",
+  "osf:95hzr": "2026-11-25",
+  "doi:10.31234/osf.io/nxgyz_v2": "2026-11-25",
+  "osf:mbc43": "2026-11-25",
+  "doi:10.1038/s42003-026-11152-5": "2026-11-25",
+  "github:megumiyoshihara/prismadaptation-activeinference": "2026-11-25",
+  "zenodo:22901772": "2026-11-25",
+  "doi:10.1016/j.isci.2026.118115": "2026-11-25",
+  "osf:m823y": "2026-11-25",
+  "doi:10.3390/s26216680": "2026-11-25",
+  "osf:4aku9": "2026-11-25",
+  "doi:10.1038/s42003-026-10721-y": "2026-11-25",
+  "doi:10.5061/dryad.nk98sf7q7": "2026-11-25",
+  "github:tavrnn/tavrnn_repo_paper": "2026-11-25",
+  "osf:cn648": "2026-11-25",
+  "doi:10.64898/2026.11.14.765964": "2026-11-25",
+  "github:cheshta2205/motor-and-structure-learning-": "2026-11-25",
+  "doi:10.3389/frobt.2026.1968921": "2026-11-25",
+  "github:j-niez/emg-to-ros": "2026-11-25",
+  "doi:10.64898/2026.11.08.765173": "2026-11-25",
+  "github:lingqiz/inductive-bias": "2026-11-25",
+  "doi:10.1038/s41539-026-00444-4": "2026-11-25",
+  "osf:hjd3r": "2026-11-25",
+  "doi:10.1038/s41467-026-79273-3": "2026-11-25",
+  "github:nsquaredlab/myogen": "2026-11-25",
+  "zenodo:21392909": "2026-11-25",
+  "doi:10.1038/s42003-026-10666-2": "2026-11-25",
+  "github:eloygeenjaar/subject-specific-nonlinear-manifold-learning": "2026-11-25",
+  "github:psychoinformatics-de/studyforrest-data": "2026-11-25",
+  "doi:10.1038/s41597-026-07903-y": "2026-11-25",
+  "doi:10.7910/dvn/gekivc": "2026-11-25",
+  "github:irania/parkinsonapp": "2026-11-25",
+  "zenodo:19597742": "2026-11-25",
+  "doi:10.1038/s41531-026-01501-w": "2026-11-25",
+  "github:kexin-wang98/mcbp": "2026-11-25",
+  "doi:10.64898/2026.11.05.26367336": "2026-11-25",
+  "figshare:4892463": "2026-11-25",
+  "github:reichenbachlabhhn/gaitdwh": "2026-11-25",
+  "doi:10.1186/s12984-026-02123-2": "2026-11-25",
+  "zenodo:17278902": "2026-11-25",
+  "doi:10.3389/fnhum.2026.1949253": "2026-11-25",
+  "osf:t8hj2": "2026-11-25",
+  "doi:10.3389/fnins.2026.1736859": "2026-11-25",
+  "osf:a9z63": "2026-11-25",
+  "doi:10.1371/journal.pone.0355594": "2026-11-25",
+  "osf:sym27": "2026-11-25",
+  "doi:10.3389/fped.2026.1967139": "2026-11-25",
+  "github:kobor-lab/public-scripts": "2026-11-25",
+  "doi:10.64898/2026.11.11.765959": "2026-11-25",
+  "github:draeloslab/improv": "2026-11-25",
+  "github:draeloslab/joseph_2026": "2026-11-25",
+  "doi:10.3390/jcm15218699": "2026-11-25",
+  "zenodo:23313883": "2026-11-25",
+  "zenodo:23313884": "2026-11-25",
+  "doi:10.1038/s41467-026-79403-x": "2026-11-25",
+  "github:staudigllab/code4lowfreqeyemovs": "2026-11-25",
+  "doi:10.1371/journal.pone.0360641": "2026-11-25",
+  "osf:h75rp": "2026-11-25",
+  "doi:10.64898/2026.11.18.767520": "2026-11-25",
+  "openneuro:ds006067": "2026-11-25",
+  "zenodo:15665444": "2026-11-25",
+  "doi:10.1038/s41398-026-04320-y": "2026-11-25",
+  "github:juryxy/juspace": "2026-11-25",
+  "doi:10.1126/sciadv.aeg3412": "2026-11-25",
+  "github:giupontillo/atrophymodellingms": "2026-11-25",
+  "zenodo:21281372": "2026-11-25",
+  "doi:10.64898/2026.11.21.768316": "2026-11-25",
+  "osf:n6rav": "2026-11-25",
+  "doi:10.64898/2026.11.09.765261": "2026-11-25",
+  "zenodo:23943008": "2026-11-25",
+  "doi:10.48550/arxiv.2611.17233": "2026-11-25",
+  "zenodo:24170285": "2026-11-25",
+  "doi:10.31234/osf.io/kg8f2": "2026-11-25",
+  "zenodo:24153021": "2026-11-25",
+  "doi:10.3758/s13423-026-03034-y": "2026-11-25",
+  "osf:mw5z3": "2026-11-25",
+  "doi:10.64898/2026.11.16.26368193": "2026-11-25",
+  "github:oxford1869/ad-plasma-biomarker-rates-of-change": "2026-11-25",
+  "doi:10.64898/2026.11.08.765221": "2026-11-25",
+  "github:neurotechx/moabb": "2026-11-25",
+  "doi:10.1007/s00415-026-14253-7": "2026-11-25",
+  "zenodo:18758864": "2026-11-25",
+  "doi:10.1038/s41398-026-04587-1": "2026-11-25",
+  "github:wiegertj/structural_brain_dimension": "2026-11-25",
+  "doi:10.31234/osf.io/v9xfh": "2026-11-25",
+  "osf:awy7e": "2026-11-25",
+  "doi:10.64898/2026.11.16.766995": "2026-11-25",
+  "openneuro:ds006928": "2026-11-25",
+  "doi:10.21203/rs.3.rs-11594118/v1": "2026-11-25",
+  "zenodo:22638709": "2026-11-25",
+  "zenodo:22638710": "2026-11-25",
+  "doi:10.1158/2767-9764.crc-26-0288": "2026-11-25",
+  "zenodo:23933904": "2026-11-25",
+  "zenodo:23933905": "2026-11-25",
+  "doi:10.1016/j.ohx.2026.e00856": "2026-11-25",
+  "mendeley:c4kc5bdztk": "2026-11-25"
+ },
+ "held": {
+  "zenodo:24447994": {
+   "title": "Simulation-Supported Experiential Learning in Vocational Electrical Education: Technical Competence and Troubleshooting Skills Dataset",
+   "url": "https://zenodo.org/records/24447994",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24432070": {
+   "title": "Motoric signatures to detect original authorship versus cognitive effort in instructed motor responses of an emerging speaker with ASD",
+   "url": "https://zenodo.org/records/24432070",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24358212": {
+   "title": "PEDAGOGICAL APPROACHES TO ORGANIZING PARA JUDO TRAINING FOR CHILDREN WITH DISABILITIES",
+   "url": "https://zenodo.org/records/24358212",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24051131": {
+   "title": "METHODOLOGY FOR IMPROVING THE TECHNICAL PREPAREDNESS OF 13–15-YEAR-OLD FEMALE VOLLEYBALL PLAYERS THROUGH A DIFFERENTIATED APPROACH",
+   "url": "https://zenodo.org/records/24051131",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24355077": {
+   "title": "Data for: Effects of expert video modeling on motor skill learning in sport pedagogy: a systematic review and meta-analysis with a meta-regression",
+   "url": "https://zenodo.org/records/24355077",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24189974": {
+   "title": "Supplementary material: Gamified teaching and motor skill learning in school physical education - a systematic review and exploratory meta-analysis",
+   "url": "https://zenodo.org/records/24189974",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24144762": {
+   "title": "Anonymized Dataset on Physical Literacy and Football Shooting Skill Acquisition in Children: A Comparison of Linear and Nonlinear Pedagogies",
+   "url": "https://zenodo.org/records/24144762",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24096749": {
+   "title": "Teaching Long Jump as a Movement Sequence: A Four-School, Nonrandomized Comparison of Play-Based and Technique-Led Physical Education",
+   "url": "https://zenodo.org/records/24096749",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24268854": {
+   "title": "Simulated Low Vision and Grasping — Trial-Level Dataset",
+   "url": "https://zenodo.org/records/24268854",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24078614": {
+   "title": "CORRECTIONAL AND PEDAGOGICAL TECHNOLOGIES FOR DEVELOPING COMMUNICATION SKILLS THROUGH GROSS AND FINE MOTOR DEVELOPMENT IN PRESCHOOL CHILDREN WITH SPEECH AND LANGUAGE DISORDERS",
+   "url": "https://zenodo.org/records/24078614",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24180642": {
+   "title": "Local circuit connectivity enhances visual decoding and visuomotor behavior",
+   "url": "https://zenodo.org/records/24180642",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24223669": {
+   "title": "Review tables and figure-generation code for execution interfaces and intervention mechanisms in generative bimanual contact manipulation",
+   "url": "https://zenodo.org/records/24223669",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24452238": {
+   "title": "SlipAssist - Treadmill Slip-Like Perturbation Dataset With Unassisted and Exoskeleton-Assisted Balance Recovery",
+   "url": "https://zenodo.org/records/24452238",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24369693": {
+   "title": "Cable-driven ankle exosuit: stride-level data and analysis",
+   "url": "https://zenodo.org/records/24369693",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24318098": {
+   "title": "A Gait Dataset of Individuals with Parkinson's Disease Collected Using an Optical Motion Capture System",
+   "url": "https://zenodo.org/records/24318098",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:22144403": {
+   "title": "A motion-capture gait dataset of people with Parkinson's disease",
+   "url": "https://zenodo.org/records/22144403",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24474430": {
+   "title": "Code and source data for phase-specific functional evaluation of dorsiflexor-capacity perturbations in learned musculoskeletal gait",
+   "url": "https://zenodo.org/records/24474430",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24054562": {
+   "title": "Linking overall and stage-specific task demands: A product- and process-oriented investigation of L2 speech production",
+   "url": "https://zenodo.org/records/24054562",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24452075": {
+   "title": "Data and code for: Post-movement beta oscillations signal whether a movement is part of a motor sequence during procedural learning",
+   "url": "https://zenodo.org/records/24452075",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24543405": {
+   "title": "Continuous Tracking of Subjective Visibility: Data, code, and materials",
+   "url": "https://zenodo.org/records/24543405",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24369541": {
+   "title": "Benchmark Datasets for Direct LiDAR Localization on Static Maps via 3D Distance Fields in CUDA Texture Memory",
+   "url": "https://zenodo.org/records/24369541",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24171910": {
+   "title": "Divergent acute heart rate variability and autonomic responses during wall climbing, archery, and dart throwing",
+   "url": "https://zenodo.org/records/24171910",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24341413": {
+   "title": "Data and code for: Testing the Pendulum Model of Golf Putting: A Stroke-by-Stroke Kinematic-Chain Analysis Using Wearable Inertial Sensors and a Launch Monito",
+   "url": "https://zenodo.org/records/24341413",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24493470": {
+   "title": "PianistGoalClarity",
+   "url": "https://zenodo.org/records/24493470",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24534340": {
+   "title": "Bounding session delegation in remote assessment — measurements, code and provenance",
+   "url": "https://zenodo.org/records/24534340",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24432612": {
+   "title": "PPDS: plantar pressure data set",
+   "url": "https://zenodo.org/records/24432612",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24131414": {
+   "title": "Assessment of Postural Control and Functional Performance During Early Rehabilitation After Total Knee Arthroplasty",
+   "url": "https://zenodo.org/records/24131414",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24456232": {
+   "title": "STEMNIST: Spiking Tactile Extended MNIST Neuromorphic Dataset",
+   "url": "https://zenodo.org/records/24456232",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24159255": {
+   "title": "CatK12HW-actions HTR dataset: handwritten Catalan robot-instruction lines by primary-school pupils, Catalonia (Spain)",
+   "url": "https://zenodo.org/records/24159255",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24213029": {
+   "title": "Data and reproduction code for: Automated measurement of handwriting slant: Reliability, agreement with human raters, and personality correlates",
+   "url": "https://zenodo.org/records/24213029",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24054002": {
+   "title": "Tranche A Verified Lines — Missouri Papers (SHSMO Collection p17228coll1)",
+   "url": "https://zenodo.org/records/24054002",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:35112190": {
+   "title": "Figures, Code and Data for Implicit adaptation’s effect on sensorimotor and motor confidence",
+   "url": "https://figshare.com/articles/dataset/Figures_Code_and_Data_for_b_Implicit_adaptation_s_effect_on_sensorimotor_and_motor_confidence_b_/35112190",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:33127718": {
+   "title": "Data and Code for \"Independent Online Visuomotor Control to Cursor and Target Motion\"",
+   "url": "https://figshare.com/articles/dataset/Data_and_Code_for_Independent_Online_Visuomotor_Control_to_Cursor_and_Target_Motion_/33127718",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:34807857": {
+   "title": "Data supporting “Behavioural learning engages intrinsic plasticity in the human motor cortex”",
+   "url": "https://kcl.figshare.com/articles/dataset/Data_supporting_Behavioural_learning_engages_intrinsic_plasticity_in_the_human_motor_cortex_/34807857",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:35021890": {
+   "title": "Dataset for: Comparing the Efficacy of Positive Normative, Negative Normative, and Exact Augmented Feedback Formats in Motor Skill Acquisition and Delayed Retention: A Randomized Controlled Experiment",
+   "url": "https://figshare.com/articles/dataset/Dataset_for_Comparing_the_Efficacy_of_Positive_Normative_Negative_Normative_and_Exact_Augmented_Feedback_Formats_in_Motor_Skill_Acquisition_and_Delayed_Retention_A_Randomized_Controlled_Experiment/35021890",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.34945/f5mc7m": {
+   "title": "De-identified EMG and functional kinematic data from motor complete spinal cord injured adults attempting lower extremity movement with and without spinal cord epidural stimulation",
+   "url": "https://doi.org/10.34945/f5mc7m",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:33163973": {
+   "title": "Five-digit fingertip force dataset for dexterous object manipulation during a cognitive-motor dual task",
+   "url": "https://figshare.com/articles/dataset/Five-digit_fingertip_force_dataset_for_dexterous_object_manipulation_during_a_cognitive-motor_dual_task/33163973/2",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:34969099": {
+   "title": "Data and analysis code for \"Preceding gaze history shapes reaching memories beyond visual guidance\"",
+   "url": "https://figshare.com/articles/dataset/Data_and_analysis_code_for_Preceding_gaze_history_shapes_reaching_memories_beyond_visual_guidance_/34969099",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.82901/nemar.on005931.v1.0.1": {
+   "title": "Visuomotor_task",
+   "url": "https://doi.org/10.82901/nemar.on005931.v1.0.1",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.4121/340c08e6-8cad-4b61-8108-b0dce490c882": {
+   "title": "Data underlying the publication \"Fingertip mechanics and tactile sensing make independent, quantifiable contributions to dexterous manipulation throughput\"",
+   "url": "https://doi.org/10.4121/340c08e6-8cad-4b61-8108-b0dce490c882",
+   "first_seen": "2026-11-25"
+  },
+  "openneuro:ds008198": {
+   "title": "Auditory N1/MMN during treadmill walking (passive frequency oddball)",
+   "url": "https://openneuro.org/datasets/ds008198",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.57760/sciencedb.019mc": {
+   "title": "Python codes for generating plots in article \"A three-dimensional gait dataset from typically developing children aged 3–13 years in Shanghai, China\" Python codes for generating plots in article \"A three-dimensional gait dataset from typically developing children aged 3–13 years in Shanghai, China\"",
+   "url": "https://doi.org/10.57760/sciencedb.019mc",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24397312": {
+   "title": "Lower-limb joint and Cartesian gait trajectory dataset with rehabilitation-oriented stride length and foot clearance ranges: real and synthetically generated data",
+   "url": "https://zenodo.org/records/24397312",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.7910/dvn/5rm3ot": {
+   "title": "JapanEEG: a 1000-hour EEG–EMG–audio dataset of Japanese speech production",
+   "url": "https://doi.org/10.7910/dvn/5rm3ot",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.25442/hku.34506759": {
+   "title": "Supporting data for “Applying Cognitive Science Approaches to Promote AI's Explainability and Alignment with Humans”",
+   "url": "https://doi.org/10.25442/hku.34506759",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.18710/ynekov": {
+   "title": "Replication Data for 'Generalizable vowel categories through articulatory visual feedback: Mandarin speakers learning Norwegian /ɑ/ and /æ/'",
+   "url": "https://doi.org/10.18710/ynekov",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:34649589": {
+   "title": "Data and analysis scripts for infant beat processing and later grammar",
+   "url": "https://figshare.com/articles/dataset/Data_and_analysis_scripts_for_infant_beat_processing_and_later_grammar/34649589",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.5522/04/35049814": {
+   "title": "Cross-Linguistic Sensitivity to Sound Symbolism and Orthographic Iconicity in Japanese Mimetic Words",
+   "url": "https://doi.org/10.5522/04/35049814",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:35058463": {
+   "title": "Data and code for \"Slips of the Machine\"",
+   "url": "https://figshare.com/articles/dataset/Data_and_code_for_Slips_of_the_Machine_/35058463",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.48610/2c515dc": {
+   "title": "Raw data files for the ms entitled Attentional selection in the interleaved-word task: Effects of word frequency and position cues",
+   "url": "https://doi.org/10.48610/2c515dc",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:35112178": {
+   "title": "Data and Analysis Code for Listener and Speaker Characteristics Shape Cross-Channel Emotional Speech Perception Across Adulthood: Evidence from a Prosody-Semantics Stroop Task",
+   "url": "https://figshare.com/articles/dataset/Data_and_Analysis_Code_for_b_Listener_and_Speaker_Characteristics_Shape_Cross-Channel_Emotional_Speech_Perception_Across_Adulthood_Evidence_from_a_Prosody-Semantics_Stroop_Task_b_/35112178",
+   "first_seen": "2026-11-25"
+  },
+  "mendeley:xzwjp3j7pb": {
+   "title": "Synchronizing action observation with high-frequency rTMS enhances state-dependent motor cortical plasticity. Jiao et al.",
+   "url": "https://doi.org/10.17632/xzwjp3j7pb",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.17617/3.ossdmn": {
+   "title": "Data and code for \"Digital rhythm-based home intervention after acquired brain injury: A randomized controlled trial\"",
+   "url": "https://doi.org/10.17617/3.ossdmn",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:34017141": {
+   "title": "Dataset and R code for \"Early Life Adversity Exposure Is Associated with Gaze and Cardiac Responses to Others' Suffering: A Webcam Eye-Tracking Feasibility Study\"",
+   "url": "https://figshare.com/articles/dataset/Dataset_and_R_code_for_Early_Life_Adversity_Exposure_Is_Associated_with_Gaze_and_Cardiac_Responses_to_Others_Suffering_A_Webcam_Eye-Tracking_Feasibility_Study_/34017141",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:34967182": {
+   "title": "Data_Greater perceived choice accompanies poorer motor performance when feedback choices determine rewards",
+   "url": "https://figshare.com/articles/dataset/Data_Greater_perceived_choice_accompanies_poorer_motor_performance_when_feedback_choices_determine_rewards/34967182",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:22683103": {
+   "title": "Piano Scale Dataset",
+   "url": "https://zenodo.org/records/22683103",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.5061/dryad.w6m905r5b": {
+   "title": "Experimental data from cross-slope and flat conditions",
+   "url": "https://doi.org/10.5061/dryad.w6m905r5b",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:35031322": {
+   "title": "Analysis code and derived data for \"Postural Control in Trained Karate Practitioners: Load Distribution, Stability Margins, and Centre-of-Mass Geometry across Fundamental Stances\"",
+   "url": "https://figshare.com/articles/dataset/Analysis_code_and_derived_data_for_Postural_Control_in_Trained_Karate_Practitioners_Load_Distribution_Stability_Margins_and_Centre-of-Mass_Geometry_across_Fundamental_Stances_/35031322",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:35107477": {
+   "title": "ElMo3D: A Dataset of Healthy and Post-Stroke Electromyography and Motion Capture for Machine Learning",
+   "url": "https://figshare.com/articles/dataset/ElMo3D_A_Dataset_of_Healthy_and_Post-Stroke_Electromyography_and_Motion_Capture_for_Machine_Learning/35107477",
+   "first_seen": "2026-11-25"
+  },
+  "mendeley:tgdjmwf2kc": {
+   "title": "MHNBC: Real and Synthetic Twin Handwritten English Dataset",
+   "url": "https://doi.org/10.17632/tgdjmwf2kc",
+   "first_seen": "2026-11-25"
+  },
+  "doi:10.7910/dvn/s1fqkb": {
+   "title": "MODI-Barakhadi: A Handwritten Character Dataset Covering the Complete Consonant–Vowel Syllabary of the Modi Script",
+   "url": "https://doi.org/10.7910/dvn/s1fqkb",
+   "first_seen": "2026-11-25"
+  },
+  "mendeley:29c25gyngz": {
+   "title": "Influence of Writing Mode on Writing Process and Memory Performance",
+   "url": "https://doi.org/10.17632/29c25gyngz",
+   "first_seen": "2026-11-25"
+  },
+  "mendeley:2fh285fb82": {
+   "title": "A Dataset of Children's Handwritten Bengali Characters for Deep Learning-Based Character Recognition",
+   "url": "https://doi.org/10.17632/2fh285fb82.2",
+   "first_seen": "2026-11-25"
+  },
+  "zenodo:24468521": {
+   "title": "論發冷小腸疝兩症(1859;Bodleian Sinica 1241) / Lun fa leng xiao chang shan liang zheng [On ague and hernia]: Transcription dataset On ague and hernia: Transcription dataset",
+   "url": "https://zenodo.org/records/24468521",
+   "first_seen": "2026-11-25"
+  },
+  "figshare:35038159": {
+   "title": "Code and Data for \"Privileged Cross-Modal Distillation via Center Similarity for sEMG Hand Gesture Recognition\"",
+   "url": "https://figshare.com/articles/dataset/Code_and_Data_for_Privileged_Cross-Modal_Distillation_via_Center_Similarity_for_sEMG_Hand_Gesture_Recognition_/35038159",
+   "first_seen": "2026-11-25"
+  },
+  "osf:hc4sz": {
+   "title": "Feature-selection stability and a priori posterior alpha as candidate markers of visuomotor execution speed in small sample",
+   "url": "https://osf.io/hc4sz/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:32bas": {
+   "title": "Effects of Self-Regulated Learning Strategy Interventions on Motor Skill Acquisition and Self-Monitoring in Elementary Physical Education: A Systematic Review",
+   "url": "https://osf.io/32bas/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:tdyjf": {
+   "title": "Manipulation of Response Effort to Modify Eating Behavior",
+   "url": "https://osf.io/tdyjf/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:pskqd": {
+   "title": "THE ATemporal METAPHYSICAL LOCK",
+   "url": "https://osf.io/pskqd/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:prsna": {
+   "title": "Beyond Conventional Mobility Outcomes: What Do Non-linear Measures Reveal About Gait and Balance in Multiple Sclerosis? A Scoping Review",
+   "url": "https://osf.io/prsna/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:jfc5b": {
+   "title": "Running gait in injured runners: conformal normative modelling of three-dimensional kinematics (secondary analysis of an open dataset)",
+   "url": "https://osf.io/jfc5b/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:zx462": {
+   "title": "The effect of psychosocial stress on human motor control during walking",
+   "url": "https://osf.io/zx462/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:8a6bk": {
+   "title": "Saccadic Remapping in Dynamic Road Scenes",
+   "url": "https://osf.io/8a6bk/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:59dk8": {
+   "title": "tDCS motor sequence learning 2 mA and 6 mA",
+   "url": "https://osf.io/59dk8/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:cbgtq": {
+   "title": "The Association Between Subjective Time Perception and the Accuracy of Sensorimotor Synchronization",
+   "url": "https://osf.io/cbgtq/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:ypwfx": {
+   "title": "Understanding Visuospatial Working Memory through the Block Tapping Task",
+   "url": "https://osf.io/ypwfx/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:vp2mc": {
+   "title": "Haptics affects grasping movements under explicit visuo-haptic cross-modal incongruence",
+   "url": "https://osf.io/vp2mc/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:h53pk": {
+   "title": "Lumbar Spine–Related Multisystem Changes During Sustained Mechanical Unloading and Recovery After Reloading: A Scoping Review",
+   "url": "https://osf.io/h53pk/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:mtc9j": {
+   "title": "Differences in the acute effects of transcranial direct current stimulation on neuromuscular performance based on sex and training status: A scoping review",
+   "url": "https://osf.io/mtc9j/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:5n7qr": {
+   "title": "The shape bias as a word learning strategy in children born preterm",
+   "url": "https://osf.io/5n7qr/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:5yz89": {
+   "title": "Accessing the mental lexicon by visual speech cues: A priming study of children’s speech production",
+   "url": "https://osf.io/5yz89/",
+   "first_seen": "2026-11-25"
+  },
+  "osf:qde93": {
+   "title": "Acoustic analysis of pre- and postoperative speech in children with posterior fossa tumours",
+   "url": "https://osf.io/qde93/",
+   "first_seen": "2026-11-25"
+  }
+ },
+ "watch": {
+  "10.1016/j.neuropsychologia.2026.109623": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Engagement of motor and perceptual awareness when learning to reach with mirror reversed feedback.",
+   "title_checks": 1
+  },
+  "10.1038/s41562-026-02622-1": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Long-term development of a motor memory.",
+   "title_checks": 1
+  },
+  "10.1007/s00426-026-02426-y": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A concurrent working memory task disrupts motor performance but preserves adaptation during dexterous object manipulation.",
+   "title_checks": 1
+  },
+  "10.1037/xlm0001663": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Increased vowel contrast and intelligibility in connected speech induced by sensorimotor adaptation.",
+   "title_checks": 1
+  },
+  "10.1053/j.sult.2026.11.002": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Dynamic Brain Network Transitions and Sensorimotor Performance Across the Adult Lifespan.",
+   "title_checks": 1
+  },
+  "10.1080/00222895.2026.2754482": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Are Humans Perceptually and Motorically Prepared for Interstellar Travel? Lessons from Microgravity for Multigenerational Spaceflight.",
+   "title_checks": 1
+  },
+  "10.1038/s41593-026-02505-8": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Microglia mediate motor memory decay through activity-dependent phagocytosis of myelin sheaths.",
+   "title_checks": 1
+  },
+  "10.1080/0964704x.2026.2736069": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Beethoven's progressive hearing loss: Neuroplasticity and musical adaptation.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.20.765987": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Preparatory beta activity reflects the precision demands of an upcoming movement",
+   "title_checks": 1
+  },
+  "10.1155/np/6307372": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The Sleep-Aging-Motor Memory Triad: A Systematic Review of Task-Dependent Consolidation and Neuroplasticity.",
+   "title_checks": 1
+  },
+  "10.3389/fnhum.2026.2002490": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Temporal dissociation across the eye-brain-muscle cascade delineates a preparation window before muscle activation in subacute stroke.",
+   "title_checks": 1
+  },
+  "10.1177/15459683261501505": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Increased Task Precision Demands Disproportionately Reduce Paretic Arm Choice After Right-Hemisphere Stroke.",
+   "title_checks": 1
+  },
+  "10.1007/s11357-026-02661-6": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Neuromodulation of cortical networks facilitates motor generalization of balance training in older adults.",
+   "title_checks": 1
+  },
+  "10.1007/s00221-026-07430-7": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Direction- and distance-dependent asymmetry of kinematics and kinetics for pointing movements.",
+   "title_checks": 1
+  },
+  "10.1016/j.jht.2026.09.028": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The effect of motor learning exercises on motor imagery, function, pain, and grip strength in individuals with chronic lateral epicondylitis: A randomized controlled trials.",
+   "title_checks": 1
+  },
+  "10.23736/s0022-4707.26.18208-5": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Comparative effects of internal and external feedback during learning of a complex motor skill.",
+   "title_checks": 1
+  },
+  "10.3389/fncel.2026.1953701": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "HCAR1-mediated lactate signaling: implications for neuronal excitability and nervous system function.",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1946151": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of AI-based real-time feedback on students' motor-skill performance in physical education: a systematic review and meta-analysis.",
+   "title_checks": 1
+  },
+  "10.46292/sci26-00034": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Circadian Disruption and Chrono-rehabilitation After Spinal Cord Injury.",
+   "title_checks": 1
+  },
+  "10.1002/ejsc.70292": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Active Inference and Predictive Processing for Skill Learning: Implications for Skill Acquisition in Coaching Practice.",
+   "title_checks": 1
+  },
+  "10.1016/j.neuroscience.2026.11.036": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "LOCALIZED shoulder fatigue alters early movement scaling during learning of Upper-Limb orientation.",
+   "title_checks": 1
+  },
+  "10.2147/copd.s659007": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Sensorimotor Impairments and Task-Specific Virtual Reality-Augmented Balance Rehabilitation in Chronic Obstructive Pulmonary Disease: A Narrative Review.",
+   "title_checks": 1
+  },
+  "10.1515/revneuro-2026-0150": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of frontal gamma transcranial alternating current stimulation on cognitive functions in healthy adults: a review.",
+   "title_checks": 1
+  },
+  "10.1016/j.brs.2026.103253": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "No effects of single-session concurrent tDCS on explicit motor sequence learning in healthy adults with conventional 2 mA and tangential 6 mA currents.",
+   "title_checks": 1
+  },
+  "10.1002/dev.70221": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Sensorimotor Scaffolding of Speech In Utero: The Vibro-Mechanical Imprinting Hypothesis (VMI).",
+   "title_checks": 1
+  },
+  "10.1177/11795565261502550": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Early Intensive Physiotherapy Drives Functional Recovery in Pediatric Acute Disseminated Encephalomyelitis: A Quantified Case Report.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.12.766205": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Cerebellar transcranial AC stimulation produces frequency and phase-dependent changes in Purkinje cell complex spike waveform",
+   "title_checks": 1
+  },
+  "10.1016/b978-0-443-27442-8.00006-8": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effect of noninvasive brain stimulation on voluntary movements.",
+   "title_checks": 1
+  },
+  "10.1016/b978-0-443-27442-8.00008-1": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Induction of motor system plasticity using transcranial magnetic stimulation.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.08.764653": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Same Movements, Different Skills: How Context Shapes Learning in Humans and Neural Networks",
+   "title_checks": 1
+  },
+  "10.1109/ro-man72286.2026.11714628": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Bimanual Ophthalmic Trocar Insertion: A Comparative Analysis of Manual vs. Robot-Assisted Performance.",
+   "title_checks": 1
+  },
+  "10.1016/j.actpsy.2026.108159": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Cross-cultural comparison of adult gesture adaptations to present and imagined child and adult listeners.",
+   "title_checks": 1
+  },
+  "10.1080/17518423.2026.2756584": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of Hand-Arm Bimanual Intensive Therapy Including Lower Extremities (HABIT-ILE) on activity and participation outcomes in children with cerebral palsy: a systematic review and meta-analysis.",
+   "title_checks": 1
+  },
+  "10.3390/jcm15218427": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Acute Responses in Dynamic Balance, Vertical Jump Performance, and Visuomotor Reaction Time Following Ankle Kinesio Taping and Dynamic Taping in Competitive Basketball Players: A Within-Subject Study.",
+   "title_checks": 1
+  },
+  "10.1080/21622965.2026.2762453": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Visual-perceptual and visuomotor task performance in preschool developmental language disorder: group-specific associations with receptive and expressive language.",
+   "title_checks": 1
+  },
+  "10.1177/00315125261504507": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Relationship Between Spine Deformity and Motor Control With Neurosensory Asymmetry in Patients With Lenke Type 1 Scoliosis - A Pilot Study.",
+   "title_checks": 1
+  },
+  "10.1080/02640414.2026.2765996": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Multicomponent predictors of motor competence in university students: Physical fitness outweighs cognitive and dual-task contributions.",
+   "title_checks": 1
+  },
+  "10.1186/s13063-026-09968-x": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Motor control exercises with and without the McKenzie method of mechanical diagnosis and therapy for fear-avoidance beliefs in chronic low back pain: a two-arm, parallel-group superiority randomized controlled trial protocol.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.20.766579": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Tensor decomposition for data-driven analysis of OP-MEG: a feasibility study",
+   "title_checks": 1
+  },
+  "10.1523/jneurosci.1188-26.2026": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Embodied Computation: How Does Embodiment Impact Sensorimotor and Cognitive Processing?",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.06.764525": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Automatic orofacial behaviors remap within cortical substrates for voluntary motor control in freely moving primates",
+   "title_checks": 1
+  },
+  "10.1109/tnsre.2026.3752929": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Characteristics of EEG Microstate Analysis of Power Grip and Precision Grip Hand Movements From Motor Planning to Execution.",
+   "title_checks": 1
+  },
+  "10.2196/98655": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of BlazePod Visual Stimulus Training on Reaction Time, Agility, and Shooting in Youth Basketball Players: Randomized Controlled Trial.",
+   "title_checks": 1
+  },
+  "10.1177/10998004261508108": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of a Structured Motor Control-Based Exercise Program on Functional Mobility, Respiratory Measures, and Quality of Life in Community-Dwelling Older Women: A Randomized Controlled Trial.",
+   "title_checks": 1
+  },
+  "10.3758/s13423-026-03041-z": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Toward a comprehensive view of peripersonal space: From upper-limb foundations to lower-limb frontiers.",
+   "title_checks": 1
+  },
+  "10.1016/j.isci.2026.118167": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Hippocampal theta aligns to paw movements during a forelimb-dominated sensorimotor behavior.",
+   "title_checks": 1
+  },
+  "10.1177/24741264251385968": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Bimanual Endoscopic Pars Plana Vitrectomy Technique.",
+   "title_checks": 1
+  },
+  "10.1093/brain/awag408": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Motor system inefficiency as an activity-dependent amplifier of fatigue in multiple sclerosis.",
+   "title_checks": 1
+  },
+  "10.1093/ptj/pzag123": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Changes in the Temporal Relationship Between Visual Information and Center of Pressure Displacements in Preterm Children: A Comparative Cross-Sectional Study.",
+   "title_checks": 1
+  },
+  "10.1044/2026_jslhr-26-00118": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A \"Basin of Attraction\" Theory of Speech Initiation and Stuttering.",
+   "title_checks": 1
+  },
+  "10.1007/s00221-026-07432-5": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Investigating the influence of gravity on disgust perception.",
+   "title_checks": 1
+  },
+  "10.1001/jamanetworkopen.2026.43492": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Hand-Arm Bimanual Intensive Therapy Including Lower Extremities in Preschoolers With Bilateral Cerebral Palsy: A Randomized Clinical Trial.",
+   "title_checks": 1
+  },
+  "10.1002/cne.70226": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The Case for a Link Between Meissner's Corpuscle Density in the Digits and Hand Use: A Comparative Study in Nonhuman Primates.",
+   "title_checks": 1
+  },
+  "10.1159/bbe/abqag011": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The Computational Functions of the Inferior Olive: Clues From Evolution.",
+   "title_checks": 1
+  },
+  "10.3389/fped.2026.2010204": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Overweight, obesity, and sex differences in the acquisition of aquatic motor competence among 4-5-year-old preschool children: a quasi-experimental study.",
+   "title_checks": 1
+  },
+  "10.1123/japa.2025-0147": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The Berg Balance Scale Short Form: A Rasch Analysis Method.",
+   "title_checks": 1
+  },
+  "10.1002/hed.70536": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Far Medial Endoscopic Transcervical Approach for Excision of a Recurrent Clival Chordoma Involving the Parapharyngeal and Prevertebral Spaces.",
+   "title_checks": 1
+  },
+  "10.1016/j.actpsy.2026.108140": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A variability-based account of motor coordination in joint action: the co-adaptability perspective.",
+   "title_checks": 1
+  },
+  "10.1155/crnm/2964319": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Mirror Movements in a Child With a TUBB-Related Tubulinopathy: Expanding the Phenotypic Spectrum.",
+   "title_checks": 1
+  },
+  "10.1016/j.brainres.2026.150631": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Hemisphere-specific neuroplasticity after basal ganglia stroke: divergent patterns of brain reorganization revealed by fALFF and ReHo.",
+   "title_checks": 1
+  },
+  "10.5334/pme.2306": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Navigating Intimate Physical Examination: A Qualitative Study of OBGYN Residents' Experiences of Supervising Medical Students.",
+   "title_checks": 1
+  },
+  "10.3389/fpain.2026.1898579": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Peripheral effector functions of sensory axons.",
+   "title_checks": 1
+  },
+  "10.3389/fsurg.2026.1927443": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Endoscopic versus microscopic ear surgery in surgical education: a systematic review.",
+   "title_checks": 1
+  },
+  "10.3389/fneur.2026.1882719": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Therapy onset and characteristics associated with improvement following HABIT-ILE in infants with unilateral cerebral palsy: secondary analysis of a randomized controlled trial.",
+   "title_checks": 1
+  },
+  "10.1016/j.cell.2026.09.008": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Single-cell analysis of chromatin state and transcriptome in the human basal ganglia.",
+   "title_checks": 1
+  },
+  "10.1111/tops.70097": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Developmental Analysis of Drawing Sequences: How Young Children and Adults Organize Object Parts in Line Drawing.",
+   "title_checks": 1
+  },
+  "10.1016/j.wocn.2026.101544": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The effect of preverbal message planning on inhalation depth in narrative speech.",
+   "title_checks": 1
+  },
+  "10.1016/j.cell.2026.10.031": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Toward an integrated framework for a human and mammalian brain cell atlas.",
+   "title_checks": 1
+  },
+  "10.1016/j.cell.2026.10.012": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Cross-species multiomic atlas of the primate basal ganglia.",
+   "title_checks": 1
+  },
+  "10.1007/s10143-026-04596-0": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Outcomes of kyphectomy in children with myelomeningocele: a systematic review with exploratory study-level analysis and two illustrative cases.",
+   "title_checks": 1
+  },
+  "10.3390/s26216700": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Toward Robust and Reliable Muscle Synergy Analysis: A Methodological Survey of Synergy Extraction.",
+   "title_checks": 1
+  },
+  "10.1121/10.0047515": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Rethinking dual-task interference on speech: Evidence from spectro-temporal reduction, within-word Vowel-to-Vowel coarticulation, and acoustic variability.",
+   "title_checks": 1
+  },
+  "10.1007/s00787-026-03220-2": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Neurocognitive profiles structure heterogeneous treatment response to bumetanide in neurodevelopmental disorders: secondary analysis of a multiple baseline single-case experimental design.",
+   "title_checks": 1
+  },
+  "10.1007/s11701-026-04197-5": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Surgical Intelligence Labs: a technical feasibility study of smartphone-based egocentric data capture and computational retargeting for robotic surgery.",
+   "title_checks": 1
+  },
+  "10.1111/joor.70382": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Oral Sensory Loss Alters Masticatory Amplitude but Not Rhythm.",
+   "title_checks": 1
+  },
+  "10.3389/fspor.2026.1918375": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A single session of transcranial static magnetic stimulation placed over the visual cortex was not associated with measurable changes in dynamic stability or static postural control in individuals with recurrent lateral ankle sprains: a randomized double-blind placebo-controlled trial.",
+   "title_checks": 1
+  },
+  "10.2147/imcrj.s650965": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Rare Sites of Metastases to the Breast and Integumentary System in Advanced Cervical Cancer at Initial Presentation in Eastern Uganda: A Case Report.",
+   "title_checks": 1
+  },
+  "10.1016/j.cell.2026.10.019": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia.",
+   "title_checks": 1
+  },
+  "10.1098/rsif.2026.0188": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Motor task mechanics structures muscle activities similar to synergies.",
+   "title_checks": 1
+  },
+  "10.3389/fbioe.2026.1964470": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Recent applications of neural interfaces in musculoskeletal disorders: from rehabilitation to regeneration.",
+   "title_checks": 1
+  },
+  "10.1002/advs.78517": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Spinal Cord-Computer Interface for Motor Recovery After Spinal Cord Injury: Conceptual Framework, Mechanisms, and Clinical Translation.",
+   "title_checks": 1
+  },
+  "10.2147/jpr.s654506": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Integrated Management of Myofascial Pain Syndrome with Acupuncture, Tuina, and Rehabilitation: A Narrative Review.",
+   "title_checks": 1
+  },
+  "10.1007/s00221-026-07442-3": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Location-dependent effects of vibrotactile stimulation on finger position sense acuity and related somatosensory cortical responses.",
+   "title_checks": 1
+  },
+  "10.7759/cureus.117854": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Enhancing Median Nerve Regeneration: A Literature Review of Electrical Stimulation and Adjunctive Strategies.",
+   "title_checks": 1
+  },
+  "10.1016/b978-0-443-27442-8.00012-3": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Corticomuscular or electroencephalography-electromyography coherence and intermuscular or electromyography-electromyography coherence.",
+   "title_checks": 1
+  },
+  "10.1088/1741-2552/aec0d0": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Spinal cord-computer interfaces for neurorehabilitation: Technical challenges and clinical perspectives.",
+   "title_checks": 1
+  },
+  "10.1109/tbme.2026.3752549": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A 2-DoF Wearable Robot for Measuring Coupled Wrist Stiffness in Humans.",
+   "title_checks": 1
+  },
+  "10.1177/2161783x261495801": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Structuring Exergame Program for Unilateral Cerebral Palsy with Multi Criteria Decision-Making: Randomized Trial Exergaming in Cerebral Palsy Rehabilitation.",
+   "title_checks": 1
+  },
+  "10.1016/j.psychsport.2026.103289": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "More effort, more variability, but greater relative precision: Distributional modeling of effort-performance coupling.",
+   "title_checks": 1
+  },
+  "10.1016/b978-0-443-27442-8.00007-x": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Long-latency reflex and cutaneous reflex.",
+   "title_checks": 1
+  },
+  "10.1016/j.jbiomech.2026.113679": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "State-space dynamics of joint coordination reveal preserved directional structure across running speeds.",
+   "title_checks": 1
+  },
+  "10.1016/bs.pbr.2026.09.011": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Neuroscience-informed psychoeducation in functional neurological disorders.",
+   "title_checks": 1
+  },
+  "10.2340/jrm.v58.46784": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "XR serious games for phantom limb pain, neurofunctional recovery, and prosthetic adoption: a systematic review.",
+   "title_checks": 1
+  },
+  "10.1007/s00429-026-03226-1": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Spatial and functional organization of the somato-cognitive action network (SCAN) during cue and execution of motor tasks.",
+   "title_checks": 1
+  },
+  "10.1080/09593985.2026.2763625": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of chronic neck pain on sensory organization and multidimensional postural control: A case-control study.",
+   "title_checks": 1
+  },
+  "10.1080/17518423.2026.2756593": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Pilot study of neurotransmission cognitive therapy using ultra-low-frequency vibration waves in children with cerebral palsy-associated spastic dysarthria.",
+   "title_checks": 1
+  },
+  "10.1080/09593985.2026.2758390": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of adjunctive craniosacral therapy to conventional physiotherapy on postural responses and autonomic function in individuals with multiple sclerosis: a randomized controlled trial.",
+   "title_checks": 1
+  },
+  "10.1177/15459683261501518": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Compensatory Trunk Neuromuscular Control During Early Rehabilitation After Motor Incomplete Spinal Cord Injury.",
+   "title_checks": 1
+  },
+  "10.1016/j.tine.2026.100305": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Literacy training in kindergarten children using pencil, virtual keyboard, or tablet stylus: Writing-medium effects on training-induced event-related potential modulations during letter viewing.",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1976703": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Subcortical contributions to associative learning and cognitive control in cerebellar degeneration.",
+   "title_checks": 1
+  },
+  "10.1002/brb3.71908": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Resting-State Functional Alterations Associated With Endurance Training in Amateur Marathon Runners.",
+   "title_checks": 1
+  },
+  "10.1186/s11689-026-09730-z": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Minimally verbal status in children with intellectual disability of genetic origin - prevalence, functional impact and relationship with motor skills: evidence from the IMAGINE-ID cohort.",
+   "title_checks": 1
+  },
+  "10.1016/j.jht.2026.08.006": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Rehabilitation strategies for carpal instability: A scoping review of conservative and postsurgical interventions.",
+   "title_checks": 1
+  },
+  "10.3389/fped.2026.1867739": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Applications of non-invasive brain stimulation in the treatment of children with cerebral palsy: a narrative review.",
+   "title_checks": 1
+  },
+  "10.1113/jp292458": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Loud acoustic stimulation reveals an online reticulospinal contribution to long-latency reflexes in humans.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.08.765154": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Pupil size reflects effort but not motor fatigability during a sustained motor task",
+   "title_checks": 1
+  },
+  "10.3389/fpain.2026.1858856": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Core cognition therapy for chronic low back pain: reactivating automatic postural stabilization through ideomotor-mediated interruption of the pain-guarding cycle.",
+   "title_checks": 1
+  },
+  "10.3389/fpain.2026.1945745": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Pain attenuation during task: a proof-of-concept study for a new scoring metric to capture individual differences in chronic pain changes by task engagement.",
+   "title_checks": 1
+  },
+  "10.1186/s13102-026-01949-6": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Asymmetry of inter-joint coordination patterns and variability between dominant and non-dominant legs during landing in young healthy adults: a cross-sectional study.",
+   "title_checks": 1
+  },
+  "10.1016/b978-0-443-27442-8.00009-3": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Transcranial magnetic stimulation: Negative motor effects (contralateral and ipsilateral silent periods).",
+   "title_checks": 1
+  },
+  "10.1186/s12984-026-02096-2": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Impacts of emotional priming during multiple object tracking tasks on drop landing strategy in individuals with functional ankle instability: an exploratory study.",
+   "title_checks": 1
+  },
+  "10.1109/tnsre.2026.3753682": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of Cognitive-Motor Dual-Task on Gait Characteristics and Dynamic Stability During Obstacle Crossing in Older Adults With and Without Mild Cognitive Impairment.",
+   "title_checks": 1
+  },
+  "10.1097/md.0000000000051485": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of slow-belt split-belt treadmill training on balance, walking speed, and activities of daily living in patients with subacute stroke: A pilot randomized controlled trial.",
+   "title_checks": 1
+  },
+  "10.1016/j.jisako.2026.101245": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Altered quadriceps forces and patellofemoral joint loading during walking in adolescents with patellar instability.",
+   "title_checks": 1
+  },
+  "10.1177/09287329261506774": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Short-term effects of resistive overground walking with a wearable hip exoskeleton on lower-limb strength and trunk muscle morphology in adults with high BMI: A pilot randomized trial.",
+   "title_checks": 1
+  },
+  "10.1016/j.gaitpost.2026.110707": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Normative values of spatiotemporal parameters and three-dimensional gait kinematics in 500 healthy Korean individuals: Age- and sex-stratified reference data.",
+   "title_checks": 1
+  },
+  "10.3390/s26217029": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Sensor Fusion Pipeline for Gait Analysis Using Insole-Embedded Inertial Measurement Units (IMUs).",
+   "title_checks": 1
+  },
+  "10.1111/ejn.70761": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Treadmill Walking Differentially Modulates Early Auditory Responses to Standard and Deviant Sounds.",
+   "title_checks": 1
+  },
+  "10.1007/s00426-026-02424-0": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Mapping perceived and actual walking speed during overground locomotion: an initial psychophysical approach in healthy adults.",
+   "title_checks": 1
+  },
+  "10.1016/j.jbiomech.2026.113662": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Gait kinematics and toe-clearance in younger and healthy older adults: A comparison accounting for walking speed.",
+   "title_checks": 1
+  },
+  "10.1016/j.jbiomech.2026.113605": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Perturbing gait stability during treadmill walking with destabilizing functional electrical stimulation.",
+   "title_checks": 1
+  },
+  "10.1016/j.jbspin.2026.106162": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Rethinking gait analysis in osteoarthritis: Emerging technologies.",
+   "title_checks": 1
+  },
+  "10.1016/j.gaitpost.2026.110711": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Comparative study on biomechanical and metabolic characteristics of anterior arm crutches and axillary crutches under non-weight-bearing three-point gait conditions.",
+   "title_checks": 1
+  },
+  "10.1038/s41591-026-04725-8": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Deep learning-based gait analysis predicts multisystem health phenotypes.",
+   "title_checks": 1
+  },
+  "10.3389/fresc.2026.1950206": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Individual step and participant mean validation of Gaitly's smartphone video-based gait analysis system.",
+   "title_checks": 1
+  },
+  "10.3389/fspor.2026.1973398": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Exploring associations of perceived mental fatigue and perceived energy with gait characteristics during level and downhill walking in healthy young adults.",
+   "title_checks": 1
+  },
+  "10.1177/10538135261501052": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Current Clinical Practice and Barriers to Instrumented Gait Assessment in Stroke Rehabilitation: A Cross-Sectional Survey.",
+   "title_checks": 1
+  },
+  "10.1016/j.msard.2026.108073": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Lower limb muscles weakness, strength asymmetries and reduced ankle joint mobility impair gait speed in people with multiple sclerosis.",
+   "title_checks": 1
+  },
+  "10.1016/j.gaitpost.2026.110699": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Inertial measurement unit-based gait analysis for objective assessment of vestibular rehabilitation.",
+   "title_checks": 1
+  },
+  "10.1002/msc.70308": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Isolated Aerobic Exercise in Conservatively Managed Lumbar Disc Herniation: A Structured Narrative Review of a Sparse Evidence Base.",
+   "title_checks": 1
+  },
+  "10.1109/tnsre.2026.3756438": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of Visual Feedback-Based Closed-Loop Dynamic Rehabilitation Training on Post-Stroke Gait Muscle Synergy and Entropy Features.",
+   "title_checks": 1
+  },
+  "10.1186/s12902-026-02519-0": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of wearable hip exoskeleton-assisted postprandial walking on glycemic responses in patients with type 2 diabetes: a randomized crossover study.",
+   "title_checks": 1
+  },
+  "10.1080/10255842.2026.2755547": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "An end-to-end residual convolutional Kolmogorov-Arnold Network framework for robust gait phase recognition from surface EMG.",
+   "title_checks": 1
+  },
+  "10.1007/s00415-026-14262-6": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Efficacy and mechanisms of supplementary motor area rTMS for freezing of gait in Parkinson's disease: a randomized sham-controlled trial.",
+   "title_checks": 1
+  },
+  "10.1016/j.gaitpost.2026.110712": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Muscle coordination networks during human walking revealed by graphical LASSO analysis at individual and population levels.",
+   "title_checks": 1
+  },
+  "10.2460/ajvr.26.08.0345": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Evaluation of the efficacy of extended-release buprenorphine (Ethiqa XR) using objective gait analysis in dogs.",
+   "title_checks": 1
+  },
+  "10.1007/s00415-026-14245-7": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Multidimensional characterization of motor impairment in distal and myofibrillar myopathies: a multicenter study integrating functional and digital outcome measures.",
+   "title_checks": 1
+  },
+  "10.3389/fdgth.2026.1909802": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Agreement of consumer wearable pulse oximeters across activity conditions and skin pigmentation.",
+   "title_checks": 1
+  },
+  "10.1016/j.cct.2026.108531": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Acute haemodynamic, neuromuscular, and perceptual responses to walking with blood flow restriction in older adults: protocol for a randomized within-subject crossover trial.",
+   "title_checks": 1
+  },
+  "10.1016/j.gaitpost.2026.110686": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Gait variability as a predictor of fall risk in patients with stroke: A 6-month prospective cohort study with survival analysis.",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1980345": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Empirical study on how lower limb exoskeleton robots improve older adults' physical performance through psychological mechanisms.",
+   "title_checks": 1
+  },
+  "10.1016/j.wneu.2026.125480": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Ultrasound transcranial brain pulsatility in idiopathic normal pressure hydrocephalus: a prospective exploratory study.",
+   "title_checks": 1
+  },
+  "10.1186/s42492-026-00237-x": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Spatiotemporal graph convolutional network for robust three-dimensional worker pose estimation from single-camera video with application to real-time ergonomic risk assessment.",
+   "title_checks": 1
+  },
+  "10.3390/s26216960": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Muscle Activation Timing and Synergies During End-Effector Robot-Assisted Gait: A Surface EMG Study.",
+   "title_checks": 1
+  },
+  "10.3389/fneur.2026.1941016": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Turning behavior links cognitive and motor function to safe mobility post-stroke: a cross-sectional mediation analysis.",
+   "title_checks": 1
+  },
+  "10.1088/1873-4030/aec5f8": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A Wearable Pressure-Sensor-Based System for Gait Cycle Analysis: Evaluation and Preliminary Clinical Assessment.",
+   "title_checks": 1
+  },
+  "10.3390/ani16213435": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Short-Term Effects of Meloxicam and Marine-Based Fatty Acid Compounds on Objective Limb Loading and Owner-Reported Outcomes in Dogs with Hip Osteoarthritis: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+   "title_checks": 1
+  },
+  "10.3389/fvets.2026.1934484": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Limitations of transmucosal ketamine administration for chronic pain in dogs with osteoarthritis.",
+   "title_checks": 1
+  },
+  "10.1016/j.jbiomech.2026.113693": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Sound-limb propulsive impulse after lower-limb amputation increases with amputation level but is not driven by peak ankle power.",
+   "title_checks": 1
+  },
+  "10.1016/j.wneu.2026.125505": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Spine shortening osteotomy improves gait quality after one year in tethered cord syndrome: a retrospective case series.",
+   "title_checks": 1
+  },
+  "10.1097/md.0000000000051677": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Sit-to-stand performance and gait symmetry in older adults with sarcopenia and sarcopenic obesity: A cross-sectional comparative study of lower limb motor function.",
+   "title_checks": 1
+  },
+  "10.1016/j.gaitpost.2026.110706": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Propulsion-related gait characteristics in individuals using hip disarticulation prostheses.",
+   "title_checks": 1
+  },
+  "10.1109/jbhi.2026.3753396": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "G-MCL: Gait-Oriented Multi-Criteria Design of Sparse Plantar Sensors for High-Fidelity Analysis.",
+   "title_checks": 1
+  },
+  "10.1186/s13102-026-01979-0": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "An innovative approach for personalized energy expenditure estimation using physiological measurements and gait characteristics: an artificial intelligence-based study.",
+   "title_checks": 1
+  },
+  "10.1016/j.gaitpost.2026.110687": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Age-related kinematic and kinetic patterns during sit-to-stand and stand-to-sit in chronic non-specific low back pain patients: A secondary exploratory analysis.",
+   "title_checks": 1
+  },
+  "10.1016/j.gaitpost.2026.110703": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Using a sacral cluster to improve pelvic tracking during gait in overweight individuals.",
+   "title_checks": 1
+  },
+  "10.1097/bpo.0000000000003526": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A Multimodal Intervention Model Integrating Cognitive Behavioral Education and Health Care Collaboration for Flatfoot Prevention in Children: A Multicentre Cohort Study and Randomized Controlled Trial.",
+   "title_checks": 1
+  },
+  "10.1371/journal.pone.0363369": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Comparative evaluation of single and multiple camera-based pose estimation methods for gait spatiotemporal parameter estimation.",
+   "title_checks": 1
+  },
+  "10.3389/fresc.2026.2010337": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Long-term exercise-based rehabilitation after limb-salvage surgery for lower-extremity dedifferentiated liposarcoma: a case report.",
+   "title_checks": 1
+  },
+  "10.1093/burnst/tkag068": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Prussian Blue nanozyme-reinforced dynamic gelatin methacryloyl hydrogel enables microenvironment modulation and functional recovery in volumetric muscle loss.",
+   "title_checks": 1
+  },
+  "10.3390/s26216939": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A Brace-Integrated Fiber Bragg Grating Sensor with a Multi-Hardness Silicone Strain Transfer Substrate for Knee Flexion Monitoring: A Proof-of-Concept Study.",
+   "title_checks": 1
+  },
+  "10.3390/jcm15218284": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Single-Leg Weight-Bearing Reveals Hidden Varus Deformity in Knee Osteoarthritis.",
+   "title_checks": 1
+  },
+  "10.1111/os.70472": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Foot Morphology Asymmetry, Gait Biomechanics, and Trunk Muscle Activation in Adolescents With Major Thoracic Idiopathic Scoliosis: A Cross-Sectional Study.",
+   "title_checks": 1
+  },
+  "10.1007/s10072-026-09520-4": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Task-state prefrontal cortex activation differences between executive dysfunction and perceptual dysfunction phenotypes of freezing of gait in Parkinson's disease during the medication ON state: a retrospective fNIRS study.",
+   "title_checks": 1
+  },
+  "10.1038/s41598-026-64594-6": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Machine learning prediction of self-reported real-world knee osteoarthritis pain from wearable accelerometer-derived gait features.",
+   "title_checks": 1
+  },
+  "10.1186/s12984-026-02134-z": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Correlation between gait quality, walking speed, and endurance and their changes in patients with cerebral palsy: improved quality does not always mean faster walking or greater distance.",
+   "title_checks": 1
+  },
+  "10.3389/fbioe.2026.1939545": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Detecting sleep deprivation from running biomechanics using machine learning classification: a comparison between wearable and laboratory motion capture.",
+   "title_checks": 1
+  },
+  "10.1097/jsm.0000000000001529": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Running Gait Biomechanics Associated With Tibial Bone Stress Injuries Among Adolescent Athletes.",
+   "title_checks": 1
+  },
+  "10.1111/head.70267": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Spreading voltage buildup in high density EEG during migraine aura: A longitudinal single-patient study.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.13.26368039": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Inter-articulatory Timing of Vocalic Tongue Body and Jaw Movements across Talkers with Dysarthria due to Various Neurological Conditions",
+   "title_checks": 1
+  },
+  "10.1126/science.aef8963": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A neural code for generative speech production in human Wernicke's area.",
+   "title_checks": 1
+  },
+  "10.1016/bs.pbr.2026.09.012": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Neuroscience-informed psychoeducation for stuttering and other speech disorders.",
+   "title_checks": 1
+  },
+  "10.1016/j.jfludis.2026.106265": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Individual factors associated with stuttering anticipation frequency and avoidance responses in adults who stutter.",
+   "title_checks": 1
+  },
+  "10.1590/1516-3180.2026.3618.17092026": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Hearing in Noise Test (HINT) in pediatric stuttering: a cross-sectional study of speech perception in noise performance in children who stutter.",
+   "title_checks": 1
+  },
+  "10.1016/j.jfludis.2026.106269": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Two-year follow-up of school-age children after Lidcombe Program treatment for stuttering.",
+   "title_checks": 1
+  },
+  "10.1016/bs.pbr.2026.10.004": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Neuroscience-informed psychoeducation for multiple sclerosis: A clinical framework for high-impact symptoms and family-centered care.",
+   "title_checks": 1
+  },
+  "10.1037/rev0000654": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Cycles of discourse, speech dysfluency, and active inference.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.19.767958": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Neural competition predicts speech production advantages in congenital amusia",
+   "title_checks": 1
+  },
+  "10.1044/2026_jslhr-26-00454": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A Network Analysis of Attitudes Toward People Who Stutter From the Public Opinion Survey of Human Attributes-Stuttering Database.",
+   "title_checks": 1
+  },
+  "10.1515/phon-2025-0035": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Cross-tonal and cross-generational variability of laryngeal contrasts in Shuangfeng Xiang Chinese.",
+   "title_checks": 1
+  },
+  "10.1002/aur.70375": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Multimodal Communication in Early Autism: A Microanalytic Investigation of Gesture, Speech, and Temporal Synchrony During Parent-Child Interaction.",
+   "title_checks": 1
+  },
+  "10.1016/j.jfludis.2026.106273": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A realist process evaluation of the TreatPaCS trial for preschool age children who stutter as theory building for further exploration.",
+   "title_checks": 1
+  },
+  "10.1044/2026_ajslp-26-00276": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Clinical Features of Childhood Apraxia of Speech Across Languages: A Scoping Review.",
+   "title_checks": 1
+  },
+  "10.1016/j.jfludis.2026.106267": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Palin Stammering Therapy for School-aged Children: Early evidence.",
+   "title_checks": 1
+  },
+  "10.1016/j.jvoice.2026.10.081": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Prosodic Characteristics in Cis and Trans Voices: Acoustic and Perceptual-Auditory Analysis.",
+   "title_checks": 1
+  },
+  "10.1044/2026_ajslp-26-00259": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Pretreatment Speaking Rate Predicts Gains in Communicative Effectiveness Following SPEAK OUT! Treatment for Parkinson's Disease.",
+   "title_checks": 1
+  },
+  "10.3791/72738": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A Speech Production-Perception Workflow for Examining Potential Contact Effects on Mandarin Phonetic Variation Among High School Teachers in Guilin.",
+   "title_checks": 1
+  },
+  "10.1044/2026_jslhr-26-00030": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Identifying Dysarthria Subgroups in Talkers With Parkinson's Disease.",
+   "title_checks": 1
+  },
+  "10.1016/j.cortex.2026.10.011": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Spatiotemporal dynamics of interoceptive conceptual processing in the human brain.",
+   "title_checks": 1
+  },
+  "10.1051/parasite/2026065": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Development and characterisation of microsatellite markers for analysing the population genetics of the tsetse fly Glossina austeni.",
+   "title_checks": 1
+  },
+  "10.3389/froh.2026.1938356": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Strengthening speech development through timely delivery of orthodontic care: a narrative review.",
+   "title_checks": 1
+  },
+  "10.3389/fnins.2026.1967182": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "From beat to syntax: evolutionary and developmental paths of a shared neural resource for hierarchical processing in music and language.",
+   "title_checks": 1
+  },
+  "10.1016/j.jecp.2026.106701": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Gesture use in autobiographical memory narration: The comparison of blind and sighted early teenagers.",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1960258": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Immersive virtual simulation use as an experimental tool for recording speech production for machine learning.",
+   "title_checks": 1
+  },
+  "10.1016/j.jcomdis.2026.106712": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Coworker responses and communicative autonomy among adults who stutter: an interpretative phenomenological analysis.",
+   "title_checks": 1
+  },
+  "10.1007/s10803-026-07600-0": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Gesture, Not Speech, Distinguishes Autistic and Neurotypical Children's Narratives Across Toy and Human Listener Contexts.",
+   "title_checks": 1
+  },
+  "10.1044/2026_jslhr-25-00752": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Speech Sound Production in Children With and Without Elevated Familial Likelihood of Autism Spectrum Disorder.",
+   "title_checks": 1
+  },
+  "10.1002/lary.71032": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The Inner Ear Enigma: Microvascular Occlusions as a Mechanism for Sudden Audiovestibular Dysfunction.",
+   "title_checks": 1
+  },
+  "10.2196/99377": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Cybersickness and Its Relationship With Vestibulo-Ocular Reflex and Ocular Motor Functions: Prospective Single-Arm Experimental Study.",
+   "title_checks": 1
+  },
+  "10.1080/00016489.2026.2744030": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of optokinetic stimuli on smooth pursuit eye movements.",
+   "title_checks": 1
+  },
+  "10.1097/npt.0000000000000591": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Vergence-Augmented Vestibulo-Ocular Reflex Training in Vestibular Hypofunction: An Exploratory Study.",
+   "title_checks": 1
+  },
+  "10.1186/s13256-026-06481-2": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Vestibular rehabilitation for a patient with vestibular neuritis following coronavirus disease 2019: a case report.",
+   "title_checks": 1
+  },
+  "10.1162/imag.a.1440": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Minimizing the influence of magnetic vestibular stimulation inside MRI scanners by adjusting head position.",
+   "title_checks": 1
+  },
+  "10.1080/14992027.2026.2746949": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "An investigation into the cognitive influences on caloric-induced cortical alpha suppression and vestibular responsiveness.",
+   "title_checks": 1
+  },
+  "10.65717/iao.2026.262433": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Objective Vestibular Outcomes Following Pediatric Cochlear Implantation Using the Round Window Approach.",
+   "title_checks": 1
+  },
+  "10.1007/s00405-026-10824-6": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Angular jerk in human gaze stabilization: a clinical framework for interpreting HIMP, SHIMP, VVOR, and VORS.",
+   "title_checks": 1
+  },
+  "10.1016/j.jaclp.2026.11.001": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Ocular Static Fixation as a Sign of Delirium.",
+   "title_checks": 1
+  },
+  "10.1159/aud/abnag001": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Reading Abilities and Visual Evoked Potentials in Hearing-Impaired Children: A Comparative Study of Cochlear Implant and Hearing Aid Users.",
+   "title_checks": 1
+  },
+  "10.26599/joto.2026.9540078": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Prioritizing Vestibular Laboratory Testing Based on Symptom Time Course: A Narrative Review.",
+   "title_checks": 1
+  },
+  "10.3760/cma.j.cn115330-20260202-00076": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "[Abnormal findings of the vestibular autorotation test and vestibulo-ocular reflex suppression test and their associations with clinical characteristics in vestibular migraine of childhood and recurrent vertigo of childhood].",
+   "title_checks": 1
+  },
+  "10.1016/j.neubiorev.2026.107091": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A meta-analytic comparison of eye movement subtypes as potential biomarkers of schizophrenia.",
+   "title_checks": 1
+  },
+  "10.1177/09574271261509506": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Clinical decision-making in cervical dizziness: A systematic review of diagnostic tests and symptoms.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.23.768639": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Gaze and Pupil Patterns in ADHD and ASD during Naturalistic Viewing",
+   "title_checks": 1
+  },
+  "10.1038/s41598-026-65880-z": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Fixational saccades and drift parameters are altered in poorly controlled type 2 diabetes mellitus: a pilot study.",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1962094": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Grit and basketball players' mental well-being: the mediating roles of athlete burnout and sport skill learning engagement.",
+   "title_checks": 1
+  },
+  "10.1080/09658211.2026.2764726": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Complementary behavioural signatures of a motor sequence memory following competing learning.",
+   "title_checks": 1
+  },
+  "10.1016/j.neuroimage.2026.122351": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Transcranial photobiomodulation influences BOLD responses during finger sequence execution: An fMRI study in young and older adults.",
+   "title_checks": 1
+  },
+  "10.1016/j.biopsycho.2026.109428": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Cognitive capacity in subjective cognitive decline: Insights from electrophysiological markers and dual-task performance.",
+   "title_checks": 1
+  },
+  "10.1038/s41598-026-65207-y": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Transcranial ultrasound stimulation of the subthalamic nucleus modulates cognitive function in humans.",
+   "title_checks": 1
+  },
+  "10.1016/j.neurobiolaging.2026.10.010": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Interhemispheric M1-M1 connectivity and resilience against basic motor function decline in aging.",
+   "title_checks": 1
+  },
+  "10.1002/mds.70620": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Digital Biomarker of Upper-Limb Bradykinesia Severity, Progression, and Therapy Response in Parkinson's Disease.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.16.767170": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "PreSMA population dynamics keep the beat atop the primate audiomotor hierarchy",
+   "title_checks": 1
+  },
+  "10.1016/j.parkreldis.2026.109066": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A novel bilateral periorbital high definition tDCS montage in Huntington's disease: A randomized sham-controlled pilot study of safety, tolerability, and clinical feasibility.",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1988470": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Basketball expertise is associated with distinct relationship s among dynamic visual tracking, visuospatial working memory, and tactical decision-making.",
+   "title_checks": 1
+  },
+  "10.59249/zsdt8892": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Leveraging Deep Learning to Reveal Fine-Scale In Vivo Mitochondrial Dynamics and Axonal Transport.",
+   "title_checks": 1
+  },
+  "10.1016/j.animal.2026.102004": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Analysis of pig appeasing pheromone effects on social behaviour and welfare in group-housed sows using computer vision.",
+   "title_checks": 1
+  },
+  "10.1177/09226028261507575": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Cortical Silent Period Duration and Ankle Motor Performance After Stroke.",
+   "title_checks": 1
+  },
+  "10.1109/tip.2026.3752835": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "TAETrack++: Trajectory Age Extension and Motion Refinement for Robust Multi-Object Tracking.",
+   "title_checks": 1
+  },
+  "10.1039/d6lc00910g": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Two-dimensional adhesion noise spectroscopy: a CMOS-based, non-invasive modality for real-time cell and tissue monitoring.",
+   "title_checks": 1
+  },
+  "10.1002/advs.78241": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Multi-Target Wireless Localization of Miniaturized Magneto-Oscillatory Trackers in Soft Biological Tissues.",
+   "title_checks": 1
+  },
+  "10.1111/cogs.70278": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Loud Trains and Smelly Diapers: How Multisensory Experiences Influence Word Learning and Processing in Toddlers.",
+   "title_checks": 1
+  },
+  "10.1016/j.atech.2026.102661": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Long-term tracking of individual pigs through re-identification.",
+   "title_checks": 1
+  },
+  "10.3390/s26217027": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A Novel Storm Cell Identification, Tracking and Nowcasting Algorithm for Severe Thunderstorm Winds Using Networked Weather Radar Data.",
+   "title_checks": 1
+  },
+  "10.1177/1179173x261497773": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "E-Cigarette Brand Trends: A Comparison Across Texas College Students, a United States Online Sample, and the E-cigarette Retail Market (2023-2025).",
+   "title_checks": 1
+  },
+  "10.1021/acsomega.6c05587": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Wearable Organic Electrochemical Transistor Biosensor for Real-Time Measurement of Sweat Salinity and Saturation.",
+   "title_checks": 1
+  },
+  "10.1128/aem.01336-26": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Tracking respiratory syncytial virus dynamics in wastewater during the 2024-2025 season in Switzerland.",
+   "title_checks": 1
+  },
+  "10.1109/ojemb.2026.3711924": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Monitoring of Upper-Limb Functional Movements After Stroke: Optimizing Threshold-Based Detection With Inertial Measurement Units.",
+   "title_checks": 1
+  },
+  "10.1002/jcla.70392": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Leveraging Patient Data for Real-Time Inter-Instrument Comparison: Performance of the EWMA-Based PBRTQC Model on Triglyceride Measurements.",
+   "title_checks": 1
+  },
+  "10.1177/23259671261466479": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The Validity of a Smartphone App to Serve as Proxy for Exposure Time and Activity Level in Functionally Active Patients With Knee Osteoarthritis and Young Athletes Post-ACL Reconstruction.",
+   "title_checks": 1
+  },
+  "10.1016/j.aca.2026.346403": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Simultaneous dynamic spectrophotometric determination of coexisting rare earth elements in acidic chloride media using response-specific multivariate calibration.",
+   "title_checks": 1
+  },
+  "10.1177/20556683261488467": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Hybrid robot & FES rehabilitation after stroke: Short-term performance, fatigue, and patient experience.",
+   "title_checks": 1
+  },
+  "10.1002/dev.70218": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Longitudinal Infant Prehension Development: Novel Insights From the Moment of First Contact.",
+   "title_checks": 1
+  },
+  "10.1097/gox.0000000000008267": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A Transradial Amputation Procedure to Restore Cutaneous Finger Sensations.",
+   "title_checks": 1
+  },
+  "10.1088/1741-2552/aec197": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Low-amplitude intracortical microstimulation produces short-latency modulation throughout the cortical reach-to-grasp network.",
+   "title_checks": 1
+  },
+  "10.34133/research.1477": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Multimodal and Multidimensional Tactile Perception for Universal Robotic Sophisticated Tasks.",
+   "title_checks": 1
+  },
+  "10.1016/j.jht.2026.07.001": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Hand muscle activation analysis during object manipulation: Neurorehabilitation implications.",
+   "title_checks": 1
+  },
+  "10.1016/j.jelekin.2026.103225": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Extraction of an M-wave-related phase-locked response from surface EMG using high-frequency amplitude-modulated stimulation.",
+   "title_checks": 1
+  },
+  "10.1093/nsr/nwag351": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "DexAnyTwist: Learning general dexterous twisting with hybrid manipulation system identification.",
+   "title_checks": 1
+  },
+  "10.1080/10400435.2026.2762043": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Stow-able passive supernumerary dorsal grasping.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.23.768135": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Sucker recruitment patterns on the octopus arm during chemotactile exploration",
+   "title_checks": 1
+  },
+  "10.3390/s26216863": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Dynamic-Static Perceptual Weight Reversal in 3D-Printed Climbing Holds: A Multi-Modal Biomechanical and Sensory Study.",
+   "title_checks": 1
+  },
+  "10.1177/08977151261503874": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Coma Recovery Scale-Revised Rating Scale Category Functioning and Threshold Ordering.",
+   "title_checks": 1
+  },
+  "10.3390/s26216822": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Design and Experimental Validation of a Synchronized Multi-Rate Wireless Sensor Network for Multimodal Physiological and Biomechanical Data Acquisition.",
+   "title_checks": 1
+  },
+  "10.7759/cureus.117847": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Usability and User Satisfaction With a Prototype Weighted Glove in People With Parkinson's Disease: An Exploratory Secondary Analysis.",
+   "title_checks": 1
+  },
+  "10.3390/healthcare14213815": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Musculoskeletal Symptoms, Upper-Limb Disability and Burnout Among Hairdressers Working in Women's Hairdressing Salons in Istanbul, Turkey: A Cross-Sectional Study.",
+   "title_checks": 1
+  },
+  "10.1080/02701367.2026.2757059": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Isolated Pressure Conditions Portray Varied Impacts on Performance, Psychological Pressure, Cognitive Anxiety, and Somatic Anxiety in Dart Throwing.",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1939721": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Wearable monitoring of pre-shot heart rate in youth golfers: a potential mental-load correlate in ecological putting practice.",
+   "title_checks": 1
+  },
+  "10.1177/00315125261510276": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A Narrative Review of Sport Specific Focus of Attention Instructions on Athlete Sport Skill Performance.",
+   "title_checks": 1
+  },
+  "10.3390/jcm15218491": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Longitudinal Retinal and Cervical Spinal Cord Changes in Multiple Sclerosis: Associations with Clinical, Cognitive, and Motor Measures.",
+   "title_checks": 1
+  },
+  "10.1249/mss.0000000000004206": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effect Of Joint-Angle Configuration on Hamstring Torque-Duration Relationship Parameters and the Etiology of Motor Performance Fatigue.",
+   "title_checks": 1
+  },
+  "10.3389/fnbeh.2026.1930919": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Distinct motor profiles in neuromodulation-induced prehabilitation before brain tumor surgery: a resting-state fMRI study of motor performance.",
+   "title_checks": 1
+  },
+  "10.1111/dmcn.70618": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Adolescent Gross Motor Function Classification System level and adult function in cerebral palsy.",
+   "title_checks": 1
+  },
+  "10.3389/fneur.2026.1981761": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Acute central metabolic effects of otolithic vestibular stimulation in a non-human primate model of Parkinsonism: proof-of-concept neuroimaging and functional study.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.20.26368423": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Functional and structural neuroplasticity of motor system in hemiplegic cerebral palsy",
+   "title_checks": 1
+  },
+  "10.1123/apaq.2026-0099": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The Effect of Video-Based Games on Upper-Extremity Functions on Children With Mild Intellectual Disability.",
+   "title_checks": 1
+  },
+  "10.1016/j.celrep.2026.118305": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Dual augmentation of STMN2 and GRN delays disease progression through coordinated axonal and neuroimmune support in ALS models.",
+   "title_checks": 1
+  },
+  "10.1249/mss.0000000000004214": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Neural Profiles of Pistol Shooting Performance Across Skill Levels in Hearing and Deaf Shooters: Insights into Cognitive-Motor Processes.",
+   "title_checks": 1
+  },
+  "10.1016/j.brainres.2026.150652": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Cyclosporine A modulates the ER-mitochondria-mitophagy axis in experimental cerebral ischemia-reperfusion injury.",
+   "title_checks": 1
+  },
+  "10.1007/s11357-026-02597-x": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Aging impairs CX3CL1 neuroprotection in α-synuclein-induced Parkinson's disease pathology.",
+   "title_checks": 1
+  },
+  "10.1016/j.braindev.2026.104619": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Assessment of blood essential elements and sensorimotor parameters in a sample of children with attention deficit hyperactivity disorder.",
+   "title_checks": 1
+  },
+  "10.1007/s10863-026-10143-9": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Mitochondrial translation deficiency limits the cardiac benefit of ketogenic diet in early-onset cardiomyopathy.",
+   "title_checks": 1
+  },
+  "10.1016/j.bbi.2026.107296": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Human nasal turbinate derived neural crest stem cells attenuate neuroinflammation and dopaminergic neurodegeneration by suppressing the HMGB1-RAGE-NF-κB axis in Parkinson's disease.",
+   "title_checks": 1
+  },
+  "10.1016/j.pnpbp.2026.112001": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Neurochemical signatures of morphometric network reorganization in Duchenne muscular dystrophy: Links to cognition and behavior.",
+   "title_checks": 1
+  },
+  "10.1002/msc.70306": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The Effect of Shoulder Support on Shoulder Subluxation in Stroke Survivors Based on Ultrasonography Findings: A Randomized Clinical Trial.",
+   "title_checks": 1
+  },
+  "10.1016/j.oraloncology.2026.108232": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Fine motor impairment in long-term survivors of nasopharyngeal carcinoma after intensity-modulated radiotherapy.",
+   "title_checks": 1
+  },
+  "10.1016/j.ijchp.2026.100736": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Associations of vision, audition, and motor function with cognition from midlife to advanced age.",
+   "title_checks": 1
+  },
+  "10.62347/fpya9704": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Factors associated with non-adherence of secondary prophylactic drugs in ischemic stroke subjects and its correlation with chronic cognitive and motor performance.",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1992224": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "An Italian auditory gender Stroop walking task: feasibility and preliminary cognitive-motor performance profiling in neurological populations.",
+   "title_checks": 1
+  },
+  "10.1007/s40279-026-02541-1": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Neurocognitive Alterations Manifested as Reaction Time Deficits Following ACL Reconstruction: A Systematic Review and Meta-Analysis of Observational Studies.",
+   "title_checks": 1
+  },
+  "10.1007/s11064-026-04910-8": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Echinacoside Attenuates α-synuclein Pathology and Lysosomal Dysfunction in PFF-Induced Models Relevant to Parkinson's Disease.",
+   "title_checks": 1
+  },
+  "10.2174/011570159x465125261104042737": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A2A Receptor Intervention Protects Astrocytes Against 6-Hydroxydopamine-Induced Oxidative and Mitochondrial Stress via the p38 MAPK Axis, Alleviating Inflammation in an In Vivo Model of Parkinson's Disease.",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1882344": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Focus instructions in one-to-one teaching: a reconstructive analysis of violin and viola teachers' subjective theories in higher music education.",
+   "title_checks": 1
+  },
+  "10.1186/s12974-026-04014-8": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Therapeutic targeting of microglial hexokinase-2 attenuates inflammasome activation and improves functional recovery after traumatic brain injury.",
+   "title_checks": 1
+  },
+  "10.1186/s12984-026-02122-3": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A specific transcranial near-infrared stimulation parameter combination targeting the motor cortex improves cortical excitability and hemodynamics.",
+   "title_checks": 1
+  },
+  "10.1186/s12906-026-05509-w": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Baduanjin improves motor function and cortical activation in children with developmental coordination disorder: a randomized controlled trial.",
+   "title_checks": 1
+  },
+  "10.1016/j.jbiomech.2026.113695": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Modeling intersegmental mechanics to reproduce physiologic coordination patterns of multi-joint finger movements.",
+   "title_checks": 1
+  },
+  "10.1021/acsami.6c16654": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "In Situ Displacement Reaction Enables a Conductive Metallized Hydrogel Interface for Smart Underwater Flexible Electronics.",
+   "title_checks": 1
+  },
+  "10.1111/nyas.70455": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "From Sight-Reading to Practiced Performance: Characterizing Upper-Body Kinematics in Expert Pianists Using Markerless Motion Capture.",
+   "title_checks": 1
+  },
+  "10.1016/j.cortex.2026.11.006": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Visual space-to-face referral, affectively modulated sensations, and motor constraints in a chronic supernumerary phantom limb after pontine hemorrhage.",
+   "title_checks": 1
+  },
+  "10.3389/fbioe.2026.1757710": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Marker-based 3D motion analysis of the fingers - a systematic review.",
+   "title_checks": 1
+  },
+  "10.1016/j.nut.2026.113457": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Body composition and postural control after perceived fatigue: cross-sectional observational study.",
+   "title_checks": 1
+  },
+  "10.3390/s26216677": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Reliability and Validity of Lumbar-Mounted IMU for Postural Sway Assessment in Healthy Adults.",
+   "title_checks": 1
+  },
+  "10.1186/s13102-026-02226-2": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of acute bouts of exercise and aerobic fitness on static balance in older adults.",
+   "title_checks": 1
+  },
+  "10.1016/j.gaitpost.2026.110702": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Cortical hemodynamic correlates of postural sway frequency redistribution during sensory-challenged quiet standing.",
+   "title_checks": 1
+  },
+  "10.1177/09574271261505147": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Stimulus-specific postural responses to optokinetic stimulation using a semi-immersive virtual reality system.",
+   "title_checks": 1
+  },
+  "10.1016/j.dcn.2026.101846": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A shared somatomotor structural substrate for motor function and behavioral symptoms in childhood and adolescence.",
+   "title_checks": 1
+  },
+  "10.1007/s11357-026-02667-0": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Latent cortical network adaptability predicts dual-task-unmasked postural instability in Parkinson's disease: a proof-of-concept study.",
+   "title_checks": 1
+  },
+  "10.1055/s-0046-1829855": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of Circadian Disruption and Chronotype on Postural Stability During Quiet Stance.",
+   "title_checks": 1
+  },
+  "10.1038/s41598-026-63082-1": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Superior canal dehiscence syndrome alters kinematics of head and postural control during standing.",
+   "title_checks": 1
+  },
+  "10.1016/j.jbiomech.2026.113702": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Deep learning classification of children with autism spectrum disorder using short-duration center of pressure data.",
+   "title_checks": 1
+  },
+  "10.1080/17518423.2026.2760817": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Preliminary postural responses to an immersive VR exergame in children with unilateral cerebral palsy: a pilot study.",
+   "title_checks": 1
+  },
+  "10.1080/09593985.2026.2760429": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Comparison of robot-assisted gait training and visual feedback balance training on balance and gait outcomes in patients with stroke: a randomized controlled trial.",
+   "title_checks": 1
+  },
+  "10.1080/00222895.2026.2768548": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of a Secondary Cognitive Task on Postural Stability After ACL Reconstruction: A Systematic Review.",
+   "title_checks": 1
+  },
+  "10.7759/cureus.118210": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of Proprioceptive Neuromuscular Facilitation (PNF)-Based and Virtual Reality (VR) Balance Training on Postural Control and Dynamic Balance in Stroke Survivors.",
+   "title_checks": 1
+  },
+  "10.1016/j.msard.2026.108046": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Impact of TENS on mobility deficits in individuals with multiple sclerosis: a double-blind randomized clinical trial.",
+   "title_checks": 1
+  },
+  "10.21037/jss-2026-0196": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Proprioceptive and vestibular contributions to balance control in subjects with adolescent idiopathic scoliosis: a cross-sectional clinical study.",
+   "title_checks": 1
+  },
+  "10.3389/fphys.2026.1892150": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of a combined non-dominant-limb-focused technical and unstable-surface balance training program on dynamic postural control, inter-limb asymmetry, and soccer-specific performance in young soccer players.",
+   "title_checks": 1
+  },
+  "10.3389/fphys.2026.1928723": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The effects of resistance training on postural control in children and adolescents: a systematic review and meta-analysis.",
+   "title_checks": 1
+  },
+  "10.1177/10538135261506356": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Does Hemiplegic Side Matter? A Cross-Sectional Study of Laterality Impacts on Mobility, Balance, Hand Dexterity, and Cognition in Stroke Patients.",
+   "title_checks": 1
+  },
+  "10.12965/jer.2652952.476": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of virtual reality-based exercise on biomechanical and functional outcomes: a narrative review of randomized controlled trials.",
+   "title_checks": 1
+  },
+  "10.1123/jab.2026-0144": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Adjustment of the Anteroposterior Center-of-Pressure Position Reduces Asymmetrical Knee Loading During Double-Leg Squatting After Anterior Cruciate Ligament Reconstruction.",
+   "title_checks": 1
+  },
+  "10.2490/prm.20260026": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Impact of the Proteus Effect on Postural Stability in Virtual Space.",
+   "title_checks": 1
+  },
+  "10.3389/fnagi.2026.1979600": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Heightened bilateral foot coupling in older adults under cognitive load: beyond sway variability and complexity.",
+   "title_checks": 1
+  },
+  "10.1123/japa.2026-0137": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of Different Insole Types on Balance and Fall-Risk-Related Outcomes in Older Adults: A Systematic Review and Bayesian Network Meta-Analysis.",
+   "title_checks": 1
+  },
+  "10.3389/fresc.2026.1979410": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Inter-rater reliability of the ability for basic movement scale II-w: a revised clinical mobility scale adding a walking item.",
+   "title_checks": 1
+  },
+  "10.1016/j.jbiomech.2026.113670": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Musical Feedback to Reduce the Knee Adduction Moment Via Center of Pressure Medialization: A Proof-of-Concept Study in Healthy Adults for Knee Osteoarthritis Gait Retraining.",
+   "title_checks": 1
+  },
+  "10.1016/j.earlhumdev.2026.106712": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Reliability and validity of the Greek Version of the Sitting Assessment Scale in children with cerebral palsy.",
+   "title_checks": 1
+  },
+  "10.1007/s12311-026-02111-1": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Cerebellar Intermittent Theta-burst Stimulation Reduces Dual Task Cost in Walking and Balance in Stroke Patients.",
+   "title_checks": 1
+  },
+  "10.1177/10538127261507133": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "What triggers elite dancers to attend to posture and movement? A mixed-methods investigation.",
+   "title_checks": 1
+  },
+  "10.1002/ajmg.a.70351": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Early Motor Development in Children With CHARGE Syndrome Under 3.5 Years of Age. A Cross-Sectional Study.",
+   "title_checks": 1
+  },
+  "10.5603/pjnns.111492": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Evaluating and predicting independent gait recovery after stroke within the international classification of functioning, disability and health framework.",
+   "title_checks": 1
+  },
+  "10.1016/j.apergo.2026.104925": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "How field of view shapes postural stability in virtual reality environments.",
+   "title_checks": 1
+  },
+  "10.1123/japa.2025-0373": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Influence of Perturbation-Based Balance Training Distribution on Falls and Balance in Older Adult Fallers in a 6-Month Follow-Up: A Single-Blind Randomized Clinical Trial.",
+   "title_checks": 1
+  },
+  "10.1371/journal.pone.0362590": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Model-derived center-of-mass control characteristics associated with dynamic balance in patients with acute stroke.",
+   "title_checks": 1
+  },
+  "10.1080/17518423.2026.2756580": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Trunk control in diparetic cerebral palsy: associations between trunk and lower extremity muscle mechanical properties and postural performance.",
+   "title_checks": 1
+  },
+  "10.1007/s40520-026-03476-3": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Multimorbidity burden and frailty profile in older outpatients with diabetes: a cross-sectional study.",
+   "title_checks": 1
+  },
+  "10.1097/md.0000000000051656": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Changes in posture and balance in children with cerebral palsy assessed using DIERS formetric 4D and clinical scales: An exploratory single-group pre-post observational study.",
+   "title_checks": 1
+  },
+  "10.1007/s00221-026-07428-1": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Recurrence quantification analysis of the effects of height-induced postural threat and arm movement restriction on balance performance in children and young adults.",
+   "title_checks": 1
+  },
+  "10.1002/hsr2.73398": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effect of Fear of Pain on Lumbar-Pelvic and Trunk-Pelvic Kinematics in Individuals With Chronic Non-Specific Low Back Pain: A Cross-Sectional Study.",
+   "title_checks": 1
+  },
+  "10.64898/2026.11.23.768621": {
+   "first_seen": "2026-11-25",
+   "preprint": true,
+   "title": "Chewing-related changes in ankle muscle activity and spectral power are modulated by oral anesthesia during single-leg stance",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1805004": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Phase-specific trunk kinematics during functional mobility in very old adults.",
+   "title_checks": 1
+  },
+  "10.1016/j.jtv.2026.101062": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Comparative assessment of abdominal muscle morphology in beginner and advanced Pilates practitioners: a novel cross-sectional study.",
+   "title_checks": 1
+  },
+  "10.1177/15347346261507599": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Stage-Wise Identification of Gait Biomarkers Across the Progression of Diabetes and Diabetic Neuropathy.",
+   "title_checks": 1
+  },
+  "10.3390/jcm15218283": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Associations Between Masseter Muscles Tension, Postural Pattern, Pelvic Type and Postural Stability in Women with Pelvic Organ Prolapse.",
+   "title_checks": 1
+  },
+  "10.1007/s11657-026-01777-8": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Fracture risk in 85-year-old women: associations with volumetric bone mineral density, physical performance and falls.",
+   "title_checks": 1
+  },
+  "10.1177/10538135261501054": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Virtual and Augmented Reality Feedback During Robotic Gait Training Acutely Modulate Paretic Muscle Activation, Limb Loading, and Propulsion-Related Mechanics in Chronic Hemiparetic Stroke: A Randomised Crossover Trial.",
+   "title_checks": 1
+  },
+  "10.3760/cma.j.cn121094-20260202-00036": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "[Field validation of a driving fatigue progression model and development of early warning indicators for bus drivers].",
+   "title_checks": 1
+  },
+  "10.1186/s40798-026-01137-3": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Sex-Equitable Machine Learning Prediction of Ankle Reinjury in Individuals with Chronic Ankle Instability: A 2-Year Prospective Cohort Study with Fairness Audit.",
+   "title_checks": 1
+  },
+  "10.3389/fpsyg.2026.1923747": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Pose-derived kinematic features and embodied psychological functioning in Wushu Taolu: a cross-sectional study of body awareness, movement mindfulness, and psychological well-being.",
+   "title_checks": 1
+  },
+  "10.1177/20556683261491668": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Evaluating effects of a new hip-knee-ankle-foot orthosis on gait parameters in healthy individuals.",
+   "title_checks": 1
+  },
+  "10.1186/s12984-026-02107-2": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Immersive virtual reality to improve balance and gait after stroke: a pilot randomized controlled trial.",
+   "title_checks": 1
+  },
+  "10.1186/s13102-026-01991-4": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Unstable-surface squats are associated with lower postural stability indices but not interlimb sway asymmetry in healthy young adults.",
+   "title_checks": 1
+  },
+  "10.7759/cureus.118362": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Knowledge, Attitudes, and Practices Regarding Prenatal Pilates Among Pregnant Women in Kuwait.",
+   "title_checks": 1
+  },
+  "10.1186/s12887-026-07523-w": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The reliability of the Meloq EasyBase force platform for assessing jump performance and balance parameters in adolescent male basketball players.",
+   "title_checks": 1
+  },
+  "10.1002/aur.70389": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Kinematic Features of Handwriting Speed: A Comparative Study of Autistic and Non-Autistic Youth.",
+   "title_checks": 1
+  },
+  "10.3390/s26216893": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Diagnostic Performance of Artificial Intelligence for Parkinson's Disease Detection Using Handwriting and Drawing Tasks: A Systematic Review and Meta-Analysis.",
+   "title_checks": 1
+  },
+  "10.3390/s26216682": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "MSF-DiffDet: A U-Shaped Spatial-Frequency Interactive Network for Diffusion-Generated Handwriting Deepfake Detection.",
+   "title_checks": 1
+  },
+  "10.1016/j.celrep.2026.118324": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Content-related motor cortical representation during attempted handwriting.",
+   "title_checks": 1
+  },
+  "10.1002/aps3.70084": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "A comprehensive review of detection, optical character recognition, and structuring methods for herbarium label digitization.",
+   "title_checks": 1
+  },
+  "10.3389/fneur.2026.1991845": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Are clinician-administered ataxia scales truly culture-free? Rethinking contextual validity in diverse populations.",
+   "title_checks": 1
+  },
+  "10.1007/s00520-026-11493-1": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Prospective digital neurocognitive and patient-reported symptom monitoring in adults scheduled for CAR T-cell therapy: feasibility and exploratory patient-level observations from a single-center cohort.",
+   "title_checks": 1
+  },
+  "10.1007/s13534-026-00607-7": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Simultaneous classification of hand gestures and elbow angles using sEMG signals: a comparison of machine learning performances.",
+   "title_checks": 1
+  },
+  "10.1016/j.envpol.2026.129490": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Study on the Influence of Personnel Hand Activities in a Cleanroom on the Deposition Characteristics of Released Particulate Matter.",
+   "title_checks": 1
+  },
+  "10.1016/j.ijbiomac.2026.155350": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Carboxymethyl cellulose-regulated poly(vinyl alcohol) ionic networks for recyclable strain sensing.",
+   "title_checks": 1
+  },
+  "10.3389/fnins.2026.1978950": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Analysis and improvement of surface electromyography-based American Sign Language hand gesture recognition.",
+   "title_checks": 1
+  },
+  "10.1080/00222895.2026.2760311": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Motor Imagery Effects on Hand Movements: Analysis of Exoskeleton Forces and EMG.",
+   "title_checks": 1
+  },
+  "10.1007/s00221-026-07419-2": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Muscle- and phase-specific modulation of corticospinal excitability associated with observed avatar movements in a virtual reality-based mirror therapy paradigm.",
+   "title_checks": 1
+  },
+  "10.7759/cureus.118062": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Severe Rheumatic Mitral Stenosis With Multivalvular Abnormalities in a British-Born Adult Without a Recognized History of Acute Rheumatic Fever.",
+   "title_checks": 1
+  },
+  "10.1007/s11548-026-03781-2": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Exploring performance and trust in autonomous surgical robotic systems: the role of visuo-haptic guidance.",
+   "title_checks": 1
+  },
+  "10.1186/s12984-026-02118-z": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "The effect of tilt-table robot-assisted training on functional outcomes in people with stroke and sarcopenia: a retrospective cohort study.",
+   "title_checks": 1
+  },
+  "10.2196/93572": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Economic, Organizational, and Research Impact Evaluation of Introducing Robotic Rehabilitation in a Medium-Sized Hospital: Scenario-Based Comparative Analysis.",
+   "title_checks": 1
+  },
+  "10.3389/fnins.2026.1978309": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effects of brain-computer interface output modalities on motor recovery after stroke: a systematic review and network meta-analysis.",
+   "title_checks": 1
+  },
+  "10.1177/20556683261499340": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Simulation-based feasibility analysis of centrifugal-force haptic guidance for assistive cane navigation.",
+   "title_checks": 1
+  },
+  "10.1016/j.ijom.2026.11.001": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Autonomous systems in oral and maxillofacial surgery: a narrative review of current applications, regulatory considerations, and medicolegal implications.",
+   "title_checks": 1
+  },
+  "10.12659/msm.954049": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Evaluation of Rehabilitation Outcomes Following Therapy With the Luna EMG Diagnostic and Rehabilitation Robot for the Upper Limb and Hand in Individuals in the Chronic Post-Stroke Phase.",
+   "title_checks": 1
+  },
+  "10.3389/frobt.2026.1914367": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "AS-ULDAR: a ROS 2-based collaborative robotic platform for upper-limb rehabilitation - systems integration and pilot usability evaluation in a clinical environment.",
+   "title_checks": 1
+  },
+  "10.1155/prm/2812591": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Central Poststroke Pain: Mechanisms, Predictors, Clinical Assessment, and Emerging Technologies for Rehabilitation: A Structured Narrative Review.",
+   "title_checks": 1
+  },
+  "10.2196/101277": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Effectiveness of Digital Health Interventions on Rehabilitation Outcomes in Patients After Total Knee Arthroplasty: Systematic Review and Network Meta-Analysis.",
+   "title_checks": 1
+  },
+  "10.1136/bmjpo-2025-004111": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Predictive validity of General Movements Assessment in identifying neurodevelopmental disorders.",
+   "title_checks": 1
+  },
+  "10.1007/s00431-026-07654-3": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Infant motor behaviour and developmental outcomes at age 4 to 5: a population-based longitudinal cohort study.",
+   "title_checks": 1
+  },
+  "10.1371/journal.pone.0361344": {
+   "first_seen": "2026-11-25",
+   "preprint": false,
+   "title": "Beyond crying: Protocol for a multimodal assessment of suspected prolonged pain in infants using infrared thermal imaging, behavioral assessment and physiological biomarkers (NEOTHERM).",
+   "title_checks": 1
+  }
+ },
+ "pending": {
+  "Pan2026_bioRxiv": {
+   "listed": "2026-11-25",
+   "doi": "10.64898/2026.11.11.766003",
+   "data_url": "https://zenodo.org/records/24180455",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c001"
+  },
+  "Beattie2026_SciData": {
+   "listed": "2026-11-25",
+   "doi": "10.1038/s41597-026-08550-z",
+   "data_url": "https://zenodo.org/records/24194741",
+   "attempts": 1,
+   "data_level": "trial",
+   "cid": "c003",
+   "last_problem": "failed: the agent wrote neither a release nor a skip record\n\nNotes of the last attempt:\nUNFINISHED: nothing was done beyond reading work/context.md and tools/finder/BRIEF.md.\n\nEvery Bash call failed before running, with: \"apply-seccomp: write /proc/self/setgroups (nested userns is capability-restricted; caller must provide CAP_SYS_ADMIN): Permission denied\". The sandbox could not be bypassed (dangerouslyDisableSandbox is disabled). So no files were fetched, no probes were run, no converter was written, and no skip was recorded (a skip needs a command I could not run, and the evidence is not yet enough to justify one).\n\nWhat context.md shows:\n- The deposit holds s01_raw.zip (12.5 GB), s02_extracted.zip (14.6 GB), s03_aligned.zip (11.2 GB), participant-record.csv, technical_validation.zip (142 KB) and readme.txt (18 KB). The license is CC BY 4.0.\n- The data is full-body mocap, IMU and EMG, 13 participants, about 18 to 22 movements (calibration, fitness, boxing, ...). It is motor behaviour with trial-level data.\n- Open question for the retry: can a subset be range-read from a zip to stay under 5 GB and a 1.9 GB release? Probably the 'timeseries' module with samples/*.csv inside the ZIP, or 'summary'. If not, skip with 'too large'.\n- A number to check against is needed: the paper reports 13 participants and 22 trials, and readme.txt may give more.\n\nNext steps: fetch readme.txt, participant-record.csv and technical_validation.zip; read the zip central directories by range requests; decide between 'too large' and a subset conversion.\n"
+  },
+  "Wong2025_bioRxiv": {
+   "listed": "2026-11-25",
+   "doi": "10.1101/2025.02.05.636697",
+   "data_url": "https://zenodo.org/records/24484043",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c004"
+  },
+  "Concha-Perez2026_Bioengineering": {
+   "listed": "2026-11-25",
+   "doi": "10.3390/bioengineering13091019",
+   "data_url": "https://zenodo.org/records/24046852",
+   "attempts": 1,
+   "data_level": "trial",
+   "cid": "c008",
+   "last_problem": "failed: the agent wrote neither a release nor a skip record\n\nNotes of the last attempt:\nUNFINISHED: nothing was done for Concha-Perez2026_Bioengineering.\n\nEvery Bash call failed before running, with:\n`apply-seccomp: write /proc/self/setgroups (nested userns is capability-restricted; caller must provide CAP_SYS_ADMIN): Permission denied`\nWithout Bash I could not fetch the deposit, run probes or run the converter. I did not record a skip, because the failure says nothing about the dataset.\n\nWhat I know from work/context.md and the brief only:\n- The deposit is one 243 MB zip (Video-guided.zip) with sEMG and EEG recordings from 61 participants, CC BY 4.0, three gestures (Neutral, Ask, Take).\n- The paper analyses 10 of the 61 participants.\n- The paper reports classification accuracies (68.10% to 69.86%) and counts (1872 configurations, 10 participants). Whether any of these can be reproduced from the rows is not yet known.\n- The likely module is timeseries (continuous recordings), or a summary module if only features are shared. This has not been checked.\n\nNext attempt: fetch the zip, probe its structure, then decide.\n"
+  },
+  "Kettner2026_SSRN": {
+   "listed": "2026-11-25",
+   "doi": "10.2139/ssrn.6578662",
+   "data_url": "https://doi.org/10.35097/rcbbfv1mzyk1cdyn",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c009"
+  },
+  "Kettner2026_JNER": {
+   "listed": "2026-11-25",
+   "doi": "10.1186/s12984-026-02151-y",
+   "data_url": "https://doi.org/10.35097/x25gbrmxhkqwt6zx",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c010"
+  },
+  "Kettner2026_JournalBiomechanics": {
+   "listed": "2026-11-25",
+   "doi": "10.1016/j.jbiomech.2026.113500",
+   "data_url": "https://doi.org/10.35097/xg30xzav40epge3c",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c013"
+  },
+  "RochadeOliveira2026_InternationalJournalHumanCom": {
+   "listed": "2026-11-25",
+   "doi": "10.1080/10447318.2026.2762651",
+   "data_url": "https://tandf.figshare.com/articles/dataset/How_Touchscreen_Gestures_and_Component_Design_Affect_Gait_Kinematics_During_Smartphone_Use_While_Walking/35102220",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c015"
+  },
+  "Seiler2025_UniversittsundLandesbibliothekDarmstadt": {
+   "listed": "2026-11-25",
+   "doi": "10.26083/tuprints-00030981",
+   "data_url": "https://doi.org/10.48328/tudatalib-2246",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c016"
+  },
+  "Kettner2026_SSRNb": {
+   "listed": "2026-11-25",
+   "doi": "10.2139/ssrn.6661088",
+   "data_url": "https://doi.org/10.35097/0gfubm7ae1e7v7zx",
+   "attempts": 1,
+   "data_level": "trial",
+   "cid": "c017",
+   "last_problem": "failed: the agent wrote neither a release nor a skip record\n\nNotes of the last attempt:\nSTATUS: unfinished. Nothing was done beyond reading tools/finder/BRIEF.md and work/context.md.\n\nEvery Bash call failed at start-up with:\n`apply-seccomp: write /proc/self/setgroups (nested userns is capability-restricted; caller must provide CAP_SYS_ADMIN): Permission denied`\nSo I could not list the deposit (context.md lists 0 files; the DOI is 10.35097/0gfubm7ae1e7v7zx, likely KIT RADAR4KIT), fetch files, run python or write a converter. No skip was recorded, because no gate was actually checked.\n\nWhat is known from context.md: running, 21 participants, self-paced treadmill vs overground soft and hard, Vicon + Noraxon IMU at 200 Hz, license CC BY-SA 4.0 (allows a converted copy). Likely modules: walking (or timeseries). Paper: SSRN preprint doi:10.2139/ssrn.6661088. It reports p-values and thresholds only (for example cadence, stance time), so a check needs a number from the full text, such as the participant count of 21 or a mean.\n\nNext attempt: list the files first (RADAR4KIT API), then check size and documentation, then choose the module.\n"
+  },
+  "Gianferrara2025_bioRxiv": {
+   "listed": "2026-11-25",
+   "doi": "10.1101/2025.10.07.680872",
+   "data_url": "https://figshare.com/articles/dataset/Computational_Characterization_of_Decision_Making_During_Trans-saccadic_Visual_Perception/30090127/8",
+   "attempts": 1,
+   "data_level": "trial",
+   "cid": "c018",
+   "last_problem": "failed: the agent wrote neither a release nor a skip record\n\nNotes of the last attempt:\n# Gianferrara2025_bioRxiv: unfinished (first attempt)\n\nStatus: nothing done. Every Bash call failed before running, with\n`apply-seccomp: write /proc/self/setgroups (nested userns is capability-restricted; caller must provide CAP_SYS_ADMIN): Permission denied`.\nWithout Bash I could not fetch files (tools/std/fetch.py), read stdlib or the converters, or run a converter. I did not try to get around the sandbox.\n\nWhat I know from work/context.md only (not verified):\n- Figshare deposit, CC BY 4.0, 29 participants (files DDM01..DDM30, no DDM17), 4 or 8 deg cued saccade, trans-saccadic target shift up to +-2.5 deg, button-press direction report.\n- Likely sources: Subject_Data.mat (1.9 MB), R_acc.txt, R_RT.txt, R_ve_shift.txt, TSDT_B_DDM*_0.csv (E-Prime trial files), README.txt (id 71475517), Extract_VEcoeffs.m. Per-subject EyeLink .asc/.edf files are large (~77 MB each) and are probably not needed.\n- Candidate format: saccade module, or a closer one once the files are read. The paper reports N = 29, so a participant count check is available, and probably accuracy and RT numbers.\n- Task is perception plus a button press with saccades: check whether it counts as motor behaviour. The saccades are recorded, so it probably does.\n\nNext steps: read README.txt and the TSDT csv files, find the trial rows (shift size, amplitude, response, RT), read the paper on bioRxiv for the numbers to reproduce, then write tools/std/convert/Gianferrara2025_bioRxiv.py.\n"
+  },
+  "Rousseau2024_Sensors": {
+   "listed": "2026-11-25",
+   "doi": "10.3390/s24237775",
+   "data_url": "https://zenodo.org/records/18844906",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c021"
+  },
+  "Ohsawa2025_SSRN": {
+   "listed": "2026-11-25",
+   "doi": "10.2139/ssrn.5378315",
+   "data_url": "https://doi.org/10.17632/bndf7fm3m7",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c022"
+  },
+  "Piazza2026_PsyArXiv": {
+   "listed": "2026-11-25",
+   "doi": "10.31234/osf.io/et65s_v1",
+   "data_url": "https://osf.io/95hzr/",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c032"
+  },
+  "Tani2026_iScience": {
+   "listed": "2026-11-25",
+   "doi": "10.1016/j.isci.2026.118115",
+   "data_url": "https://doi.org/10.17605/osf.io/m823y",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c035"
+  },
+  "Niezgoda2026_FrontRobotAI": {
+   "listed": "2026-11-25",
+   "doi": "10.3389/frobt.2026.1968921",
+   "data_url": "https://github.com/j-niez/emg-to-ros",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c039"
+  },
+  "Tsuda2026_npjSciLearn": {
+   "listed": "2026-11-25",
+   "doi": "10.1038/s41539-026-00444-4",
+   "data_url": "https://osf.io/hjd3r/",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c041"
+  },
+  "Irani2026_SciData": {
+   "listed": "2026-11-25",
+   "doi": "10.1038/s41597-026-07903-y",
+   "data_url": "https://doi.org/10.5281/zenodo.19597742",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c044"
+  },
+  "Agostini2026_JNER": {
+   "listed": "2026-11-25",
+   "doi": "10.1186/s12984-026-02123-2",
+   "data_url": "https://doi.org/10.5281/zenodo.17278902",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c047"
+  },
+  "Woon2026_FrontHumNeurosci": {
+   "listed": "2026-11-25",
+   "doi": "10.3389/fnhum.2026.1949253",
+   "data_url": "https://osf.io/t8hj2/",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c048"
+  },
+  "Borowiecki2026_FrontNeurosci": {
+   "listed": "2026-11-25",
+   "doi": "10.3389/fnins.2026.1736859",
+   "data_url": "https://osf.io/a9z63/",
+   "attempts": 1,
+   "data_level": "trial",
+   "cid": "c049",
+   "last_problem": "failed: the agent wrote neither a release nor a skip record\n\nNotes of the last attempt:\n# Borowiecki2026_FrontNeurosci: UNFINISHED (nothing done, environment fault)\n\nStatus: no files fetched, no converter written, no skip recorded.\n\nEvery Bash call (even `pwd; ls`) failed with:\n`apply-seccomp: write /proc/self/setgroups (nested userns is capability-restricted; caller must provide CAP_SYS_ADMIN): Permission denied`.\nWithout Bash I can't run fetch.py, probe scripts, the converter or stdlib.skip. I did not try to get around the sandbox.\n\nWhat I know from work/context.md only (not verified):\n- OSF deposit https://osf.io/a9z63/, CC BY 4.0, 27.9 MB in total (well under the size limit).\n- Per-run text files in /Beavioural_data/ (note the spelling), named `<subject>_s<session>r<run>.txt`, about 1 KB each,\n  plus _README.txt, two notebooks (code, read as text only), figures and Game_Windows.zip (game code, not needed).\n- Likely format: a continuous avatar-control serial reaction time game. Possible modules are keypress, summary or a new\n  one, but this needs probing (read _README.txt and a few run files first).\n- Check candidates from the abstract: 25 participants, fixed vs random sequence, Scan1 vs Scan2, RTs, perfect playthroughs.\n  The deposit may hold only a subset of the 25 participants (subject prefixes seen so far: 008, 009, 010, 012, 014, 015, 016).\n- The deposit's listing was capped at 400 files, so the full file list must come from the OSF API.\n- No instructions embedded in deposit text were seen (I read none of the files).\n\nNext step for the retry: fetch _READ"
+  },
+  "Alshehri2026_JClinMed": {
+   "listed": "2026-11-25",
+   "doi": "10.3390/jcm15218699",
+   "data_url": "https://doi.org/10.5281/zenodo.23313883",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c053"
+  },
+  "Zhou2026_PLoSONE": {
+   "listed": "2026-11-25",
+   "doi": "10.1371/journal.pone.0360641",
+   "data_url": "https://osf.io/h75rp/",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c055"
+  },
+  "Brohl2026_bioRxiv": {
+   "listed": "2026-11-25",
+   "doi": "10.64898/2026.11.09.765261",
+   "data_url": "https://doi.org/10.5281/zenodo.23943008",
+   "attempts": 1,
+   "data_level": "trial",
+   "cid": "c060",
+   "last_problem": "failed: the agent wrote neither a release nor a skip record\n\nNotes of the last attempt:\nUNFINISHED: nothing done yet. Every Bash call failed at start-up with\n\"apply-seccomp: write /proc/self/setgroups (nested userns is capability-restricted; caller must provide CAP_SYS_ADMIN): Permission denied\".\nNo network access, fetching or python was possible, and I did not try to get around the sandbox.\n\nWhat is known from work/context.md only (not verified):\n- Deposit has 3 zips: data_BIDS.zip (11.9 GB), RSA_randomized.zip (1.06 GB), RSA_rdv_regression.zip (9.3 GB). Total 22 GB.\n- The eye-tracking data are presumably inside data_BIDS.zip (EEG + eye tracking, BIDS). Whether the eye-tracking files alone are under 5 GB is unknown:\n  next step is to read the zip's central directory by HTTP range request, list the eye-tracking files and their sizes, and decide.\n  If they are over 5 GB: skip with 'too large'. The RSA zips are derived results, not trial-level behaviour.\n- Check the paper (bioRxiv doi 10.64898/2026.11.09.765261) for a number to reproduce (participant or trial count).\n- Dataset is miniature gaze (microsaccade/fixation) during working memory: closest module is probably timeseries or saccade.\n"
+  },
+  "Mehta2026_ResearchSquare": {
+   "listed": "2026-11-25",
+   "doi": "10.21203/rs.3.rs-11594118/v1",
+   "data_url": "https://zenodo.org/records/22638709",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c070"
+  }
+ },
+ "history": [
+  {
+   "date": "2026-11-25",
+   "listed": 25,
+   "released": 0,
+   "skipped": 0
+  }
+ ]
+}
