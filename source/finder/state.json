@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-25",
+ "last_run": "2026-11-26",
  "seen": {
   "doi:10.64898/2026.11.11.766003": "2026-11-25",
   "zenodo:24180454": "2026-11-25",
@@ -452,7 +452,62 @@
   "doi:10.3389/fbioe.2019.00316": "2026-11-26",
   "doi:10.7910/dvn/stixxj": "2026-11-26",
   "doi:10.1371/journal.pbio.2001665": "2026-11-26",
-  "doi:10.5061/dryad.5vb8h": "2026-11-26"
+  "doi:10.5061/dryad.5vb8h": "2026-11-26",
+  "doi:10.1371/journal.pone.0139988": "2026-11-26",
+  "github:mbertucco/fitts": "2026-11-26",
+  "doi:10.1371/journal.pone.0134483": "2026-11-26",
+  "figshare:1500817": "2026-11-26",
+  "doi:10.1371/journal.pone.0136925": "2026-11-26",
+  "url:figshare.com/s/9f10f890e81111e49f5306ec4b8d1f61": "2026-11-26",
+  "doi:10.3389/fncom.2015.00128": "2026-11-26",
+  "github:nodragem/suppdata-mhlimitations-selection": "2026-11-26",
+  "doi:10.1371/journal.pone.0137057": "2026-11-26",
+  "figshare:1446147": "2026-11-26",
+  "doi:10.1371/journal.pone.0124986": "2026-11-26",
+  "doi:10.5061/dryad.mp5s3": "2026-11-26",
+  "doi:10.1371/journal.pone.0142029": "2026-11-26",
+  "figshare:1579105": "2026-11-26",
+  "doi:10.1371/journal.pone.0113567": "2026-11-26",
+  "figshare:1221572": "2026-11-26",
+  "doi:10.1371/journal.pone.0127000": "2026-11-26",
+  "figshare:1299314": "2026-11-26",
+  "url:figshare.com/s/7736cfe6aaba11e4881406ec4bbcf141": "2026-11-26",
+  "doi:10.1371/journal.pone.0140224": "2026-11-26",
+  "figshare:1507454": "2026-11-26",
+  "figshare:1507455": "2026-11-26",
+  "figshare:26622529": "2026-11-26",
+  "doi:10.1073/pnas.1415975111": "2026-11-26",
+  "doi:10.5061/dryad.65f2k": "2026-11-26",
+  "doi:10.1371/journal.pone.0142391": "2026-11-26",
+  "doi:10.5061/dryad.2h0q3": "2026-11-26",
+  "doi:10.1371/journal.pone.0144256": "2026-11-26",
+  "figshare:1607397": "2026-11-26",
+  "doi:10.1371/journal.pone.0136548": "2026-11-26",
+  "figshare:1489755": "2026-11-26",
+  "doi:10.1371/journal.pone.0114853": "2026-11-26",
+  "doi:10.7910/dvn/27306": "2026-11-26",
+  "doi:10.82901/nemar.nm000146": "2026-11-26",
+  "doi:10.82901/nemar.nm000146.v1.0.2": "2026-11-26",
+  "doi:10.82901/nemar.nm000146.v1.0.3": "2026-11-26",
+  "doi:10.1371/journal.pone.0121262": "2026-11-26",
+  "doi:10.7910/dvn/28932": "2026-11-26",
+  "doi:10.82901/nemar.nm000148": "2026-11-26",
+  "doi:10.82901/nemar.nm000148.v1.0.2": "2026-11-26",
+  "doi:10.82901/nemar.nm000148.v1.1.0": "2026-11-26",
+  "doi:10.1371/journal.pone.0127766": "2026-11-26",
+  "figshare:1261627": "2026-11-26",
+  "doi:10.1371/journal.pcbi.1003944": "2026-11-26",
+  "figshare:1027609": "2026-11-26",
+  "figshare:1029084": "2026-11-26",
+  "figshare:1029085": "2026-11-26",
+  "doi:10.1098/rsif.2014.0899": "2026-11-26",
+  "doi:10.5061/dryad.r9v30": "2026-11-26",
+  "doi:10.1371/journal.pone.0118331": "2026-11-26",
+  "doi:10.5061/dryad.2q940": "2026-11-26",
+  "doi:10.64898/2026.06.28.735032": "2026-11-26",
+  "figshare:33127718": "2026-11-26",
+  "doi:10.64898/2026.11.19.767269": "2026-11-26",
+  "figshare:34807857": "2026-11-26"
  },
  "held": {
   "zenodo:24447994": {
@@ -613,16 +668,6 @@
   "figshare:35112190": {
    "title": "Figures, Code and Data for Implicit adaptation’s effect on sensorimotor and motor confidence",
    "url": "https://figshare.com/articles/dataset/Figures_Code_and_Data_for_b_Implicit_adaptation_s_effect_on_sensorimotor_and_motor_confidence_b_/35112190",
-   "first_seen": "2026-11-25"
-  },
-  "figshare:33127718": {
-   "title": "Data and Code for \"Independent Online Visuomotor Control to Cursor and Target Motion\"",
-   "url": "https://figshare.com/articles/dataset/Data_and_Code_for_Independent_Online_Visuomotor_Control_to_Cursor_and_Target_Motion_/33127718",
-   "first_seen": "2026-11-25"
-  },
-  "figshare:34807857": {
-   "title": "Data supporting “Behavioural learning engages intrinsic plasticity in the human motor cortex”",
-   "url": "https://kcl.figshare.com/articles/dataset/Data_supporting_Behavioural_learning_engages_intrinsic_plasticity_in_the_human_motor_cortex_/34807857",
    "first_seen": "2026-11-25"
   },
   "figshare:35021890": {
@@ -3572,6 +3617,70 @@
    "attempts": 0,
    "data_level": "trial",
    "cid": "c038"
+  },
+  "Malassis2015_PLoSONE": {
+   "listed": "2026-11-26",
+   "doi": "10.1371/journal.pone.0134483",
+   "data_url": "https://doi.org/10.6084/m9.figshare.1500817",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c002"
+  },
+  "Kostrubiec2015_PLoSONE": {
+   "listed": "2026-11-26",
+   "doi": "10.1371/journal.pone.0142029",
+   "data_url": "https://doi.org/10.6084/m9.figshare.1579105",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c007"
+  },
+  "Rein2014_PLoSONE": {
+   "listed": "2026-11-26",
+   "doi": "10.1371/journal.pone.0113567",
+   "data_url": "https://doi.org/10.6084/m9.figshare.1221572",
+   "attempts": 0,
+   "data_level": "unknown",
+   "cid": "c008"
+  },
+  "Rudd2015_PLoSONE": {
+   "listed": "2026-11-26",
+   "doi": "10.1371/journal.pone.0140224",
+   "data_url": "https://doi.org/10.6084/m9.figshare.1507455",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c010"
+  },
+  "ViscontidiOleggioCastello2015_PLoSONE": {
+   "listed": "2026-11-26",
+   "doi": "10.1371/journal.pone.0136548",
+   "data_url": "https://doi.org/10.6084/m9.figshare.1489755",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c014"
+  },
+  "Maus2015_JRSocInterface": {
+   "listed": "2026-11-26",
+   "doi": "10.1098/rsif.2014.0899",
+   "data_url": "https://doi.org/10.5061/dryad.r9v30",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c019"
+  },
+  "Franklin2026_bioRxiv": {
+   "listed": "2026-11-26",
+   "doi": "10.64898/2026.06.28.735032",
+   "data_url": "https://figshare.com/articles/dataset/Data_and_Code_for_Independent_Online_Visuomotor_Control_to_Cursor_and_Target_Motion_/33127718",
+   "attempts": 0,
+   "data_level": "trial",
+   "cid": "c021"
+  },
+  "Clennell2026_bioRxiv": {
+   "listed": "2026-11-26",
+   "doi": "10.64898/2026.11.19.767269",
+   "data_url": "https://kcl.figshare.com/articles/dataset/Data_supporting_Behavioural_learning_engages_intrinsic_plasticity_in_the_human_motor_cortex_/34807857",
+   "attempts": 0,
+   "data_level": "participant",
+   "cid": "c022"
   }
  },
  "history": [
@@ -3596,6 +3705,12 @@
   {
    "date": "2026-11-26",
    "listed": 11,
+   "released": 0,
+   "skipped": 0
+  },
+  {
+   "date": "2026-11-26",
+   "listed": 8,
    "released": 0,
    "skipped": 0
   }

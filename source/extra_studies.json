@@ -44916,5 +44916,255 @@
    "finder": "2026-11-26",
    "how": "Europe PMC paper with a motor theory keyword in title/abstract ('interval timing'); data found through DataCite"
   }
+ },
+ {
+  "id": "Malassis2015_PLoSONE",
+  "label": "Malassis et al. 2015",
+  "year": 2015,
+  "lab": "Collins (Centre National de la Recherche Scientifique)",
+  "papers": [
+   {
+    "authors": "Malassis R, Del Cul A, Collins T",
+    "year": 2015,
+    "title": "Corollary Discharge Failure in an Oculomotor Task Is Related to Delusional Ideation in Healthy Individuals",
+    "venue": "PLoS ONE 10(8):e0134483",
+    "doi": "10.1371/journal.pone.0134483"
+   }
+  ],
+  "data_url": "https://doi.org/10.6084/m9.figshare.1500817",
+  "host": "Figshare",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": 41,
+  "task": "eye movements",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('corollary discharge')"
+  }
+ },
+ {
+  "id": "Kostrubiec2015_PLoSONE",
+  "label": "Kostrubiec et al. 2015",
+  "year": 2015,
+  "lab": "Kelso (University of Ulster)",
+  "papers": [
+   {
+    "authors": "Kostrubiec V, Dumas G, Zanone PG, Kelso JAS",
+    "year": 2015,
+    "title": "The Virtual Teacher (VT) Paradigm: Learning New Patterns of Interpersonal Coordination Using the Human Dynamic Clamp",
+    "venue": "PLoS ONE 10(11):e0142029",
+    "doi": "10.1371/journal.pone.0142029"
+   }
+  ],
+  "data_url": "https://doi.org/10.6084/m9.figshare.1579105",
+  "host": "Figshare",
+  "formats": [],
+  "n_participants": null,
+  "task": "finger movements",
+  "methods": [
+   "sensorimotor synchronization"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the deposit.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('massed practice')"
+  }
+ },
+ {
+  "id": "Rein2014_PLoSONE",
+  "label": "Rein et al. 2014",
+  "year": 2014,
+  "lab": "Bril (Ecole des hautes etudes en sciences sociales)",
+  "papers": [
+   {
+    "authors": "Rein R, Nonaka T, Bril B",
+    "year": 2014,
+    "title": "Movement Pattern Variability in Stone Knapping: Implications for the Development of Percussive Traditions",
+    "venue": "PLoS ONE 9(11):e113567",
+    "doi": "10.1371/journal.pone.0113567"
+   }
+  ],
+  "data_url": "https://doi.org/10.6084/m9.figshare.1221572",
+  "host": "Figshare",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": 18,
+  "task": "other",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('relative phase')"
+  }
+ },
+ {
+  "id": "Rudd2015_PLoSONE",
+  "label": "Rudd et al. 2015",
+  "year": 2015,
+  "lab": "Polman (Victoria University)",
+  "papers": [
+   {
+    "authors": "Rudd JR, Barnett LM, Butson ML, Farrow D, Berry J, Polman RCJ",
+    "year": 2015,
+    "title": "Fundamental Movement Skills Are More than Run, Throw and Catch: The Role of Stability Skills",
+    "venue": "PLoS ONE 10(10):e0140224",
+    "doi": "10.1371/journal.pone.0140224"
+   }
+  ],
+  "data_url": "https://doi.org/10.6084/m9.figshare.1507455",
+  "host": "Figshare",
+  "formats": [],
+  "n_participants": null,
+  "task": "balance and posture",
+  "methods": [],
+  "populations": [
+   "children"
+  ],
+  "license": null,
+  "license_note": "No license is stated on the deposit.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('degrees of freedom problem'); data found through DataCite"
+  }
+ },
+ {
+  "id": "ViscontidiOleggioCastello2015_PLoSONE",
+  "label": "Visconti di Oleggio Castello & Gobbini 2015",
+  "year": 2015,
+  "lab": "Gobbini (Dartmouth College)",
+  "papers": [
+   {
+    "authors": "Visconti di Oleggio Castello M, Gobbini MI",
+    "year": 2015,
+    "title": "Familiar Face Detection in 180ms",
+    "venue": "PLoS ONE 10(8):e0136548",
+    "doi": "10.1371/journal.pone.0136548"
+   }
+  ],
+  "data_url": "https://doi.org/10.6084/m9.figshare.1489755",
+  "host": "Figshare",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": null,
+  "task": "eye movements",
+  "methods": [],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('ideomotor')"
+  }
+ },
+ {
+  "id": "Maus2015_JRSocInterface",
+  "label": "Maus et al. 2015",
+  "year": 2015,
+  "lab": "Seyfarth (Technische Universitat Darmstadt)",
+  "papers": [
+   {
+    "authors": "Maus HM, Revzen S, Guckenheimer J, Ludwig C, Reger J, Seyfarth A",
+    "year": 2015,
+    "title": "Constructing predictive models of human running",
+    "venue": "J R Soc Interface 12(103):20140899",
+    "doi": "10.1098/rsif.2014.0899"
+   }
+  ],
+  "data_url": "https://doi.org/10.5061/dryad.r9v30",
+  "host": "Dryad",
+  "formats": [],
+  "n_participants": null,
+  "task": "running",
+  "methods": [],
+  "populations": [],
+  "license": "CC0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('observational learning'); data found through DataCite"
+  }
+ },
+ {
+  "id": "Franklin2026_bioRxiv",
+  "label": "Franklin et al. 2026",
+  "year": 2026,
+  "lab": "Franklin (Technical University of Munich)",
+  "papers": [
+   {
+    "authors": "Franklin S, Dimitriou M, Franklin DW",
+    "year": 2026,
+    "title": "Independent Online Visuomotor Control to Cursor and Target Motion",
+    "venue": "",
+    "doi": "10.64898/2026.06.28.735032"
+   }
+  ],
+  "data_url": "https://figshare.com/articles/dataset/Data_and_Code_for_Independent_Online_Visuomotor_Control_to_Cursor_and_Target_Motion_/33127718",
+  "host": "Figshare",
+  "formats": [
+   "MATLAB"
+  ],
+  "n_participants": null,
+  "task": "reaching",
+  "methods": [
+   "cursor or target jumps"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "held deposit from 2026-11-25; its paper has appeared"
+  }
+ },
+ {
+  "id": "Clennell2026_bioRxiv",
+  "label": "Clennell et al. 2026",
+  "year": 2026,
+  "lab": "Hannah (King's College London)",
+  "papers": [
+   {
+    "authors": "Clennell B, Luo B, Lam KT, Hu Y, Peterchev AV, Hannah R",
+    "year": 2026,
+    "title": "Motor learning engages intrinsic plasticity in the human cortex",
+    "venue": "",
+    "doi": "10.64898/2026.11.19.767269"
+   }
+  ],
+  "data_url": "https://kcl.figshare.com/articles/dataset/Data_supporting_Behavioural_learning_engages_intrinsic_plasticity_in_the_human_motor_cortex_/34807857",
+  "host": "Figshare",
+  "formats": [
+   "ZIP"
+  ],
+  "n_participants": null,
+  "task": "reaching",
+  "methods": [
+   "de novo learning"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "held deposit from 2026-11-25; its paper has appeared"
+  }
  }
 ]
