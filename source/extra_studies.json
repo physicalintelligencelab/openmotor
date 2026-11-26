@@ -44572,5 +44572,349 @@
    "finder": "2026-11-25",
    "how": "Europe PMC preprint with a motor theory keyword in title/abstract ('degrees of freedom problem')"
   }
+ },
+ {
+  "id": "Gottwald2019_ExpBrainRes",
+  "label": "Gottwald et al. 2019",
+  "year": 2019,
+  "lab": "Lindskog (Uppsala University)",
+  "papers": [
+   {
+    "authors": "Gottwald JM, Gredebäck G, Lindskog M",
+    "year": 2019,
+    "title": "Two-step actions in infancy—the TWAIN model",
+    "venue": "Exp Brain Res 237(10):2495-2503",
+    "doi": "10.1007/s00221-019-05604-0"
+   }
+  ],
+  "data_url": "https://osf.io/5xz6m/",
+  "host": "OSF",
+  "formats": [
+   "Excel",
+   "text"
+  ],
+  "n_participants": 61,
+  "task": "infant movements",
+  "methods": [],
+  "populations": [
+   "infants"
+  ],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('optimal feedback control')"
+  }
+ },
+ {
+  "id": "Markkula2018_BiolCybern",
+  "label": "Markkula et al. 2018",
+  "year": 2018,
+  "lab": "Merat (University of Leeds)",
+  "papers": [
+   {
+    "authors": "Markkula G, Boer E, Romano R, Merat N",
+    "year": 2018,
+    "title": "Sustained sensorimotor control as intermittent decisions about prediction errors: computational framework and application to ground vehicle steering",
+    "venue": "Biol Cybern 112(3):181-207",
+    "doi": "10.1007/s00422-017-0743-9"
+   }
+  ],
+  "data_url": "https://doi.org/10.17605/osf.io/df9pw",
+  "host": "OSF",
+  "formats": [
+   "MATLAB",
+   "text"
+  ],
+  "n_participants": null,
+  "task": "tracking",
+  "methods": [],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('optimal feedback control')"
+  }
+ },
+ {
+  "id": "Ding2018_SciRep",
+  "label": "Ding et al. 2018",
+  "year": 2018,
+  "lab": "Thyagarajan (Monash University)",
+  "papers": [
+   {
+    "authors": "Ding C, Palmer CJ, Hohwy J, Youssef GJ, Paton B, Tsuchiya N, Stout JC, Thyagarajan D",
+    "year": 2018,
+    "title": "Deep Brain Stimulation for Parkinson’s disease changes perception in the Rubber Hand Illusion",
+    "venue": "Sci Rep 8(1):13842",
+    "doi": "10.1038/s41598-018-31867-8"
+   }
+  ],
+  "data_url": "https://doi.org/10.6084/m9.figshare.5662219.v1",
+  "host": "Figshare",
+  "formats": [
+   "Excel"
+  ],
+  "n_participants": 45,
+  "task": "other",
+  "methods": [],
+  "populations": [
+   "Parkinson's disease"
+  ],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Komnik2018_PLoSONE",
+  "label": "Komnik et al. 2018",
+  "year": 2018,
+  "lab": "Weiss (ARCUS Sports Clinic)",
+  "papers": [
+   {
+    "authors": "Komnik I, David S, Funken J, Haberer C, Potthast W, Weiss S",
+    "year": 2018,
+    "title": "Compromised knee internal rotation in total knee arthroplasty patients during stair climbing",
+    "venue": "PLoS ONE 13(10):e0205492",
+    "doi": "10.1371/journal.pone.0205492"
+   }
+  ],
+  "data_url": "https://doi.org/10.5061/dryad.g1r50k7",
+  "host": "Dryad",
+  "formats": [],
+  "n_participants": null,
+  "task": "walking",
+  "methods": [],
+  "populations": [],
+  "license": "CC0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('impedance control')"
+  }
+ },
+ {
+  "id": "Lohmann2019_Vision",
+  "label": "Lohmann et al. 2019",
+  "year": 2019,
+  "lab": "Butz (University of Tubingen)",
+  "papers": [
+   {
+    "authors": "Lohmann J, Belardinelli A, Butz MV",
+    "year": 2019,
+    "title": "Hands Ahead in Mind and Motion: Active Inference in Peripersonal Hand Space",
+    "venue": "Vision 3(2):15",
+    "doi": "10.3390/vision3020015"
+   }
+  ],
+  "data_url": "https://osf.io/ap7xt/",
+  "host": "OSF",
+  "formats": [
+   "text",
+   "R"
+  ],
+  "n_participants": null,
+  "task": "grasping and lifting",
+  "methods": [
+   "virtual reality"
+  ],
+  "populations": [],
+  "license": "CC BY 4.0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('active inference')"
+  }
+ },
+ {
+  "id": "vanderKooij2018_PLoSONE",
+  "label": "van der Kooij et al. 2018",
+  "year": 2018,
+  "lab": "Smeets (Vrije Universiteit Amsterdam)",
+  "papers": [
+   {
+    "authors": "van der Kooij K, Oostwoud Wijdenes L, Rigterink T, Overvliet KE, Smeets JBJ",
+    "year": 2018,
+    "title": "Reward abundance interferes with error-based learning in a visuomotor adaptation task",
+    "venue": "PLoS ONE 13(3):e0193002",
+    "doi": "10.1371/journal.pone.0193002"
+   }
+  ],
+  "data_url": "https://osf.io/2cp4s/",
+  "host": "OSF",
+  "formats": [],
+  "n_participants": 423,
+  "task": "reaching",
+  "methods": [
+   "visuomotor rotation"
+  ],
+  "populations": [],
+  "license": null,
+  "license_note": "No license is stated on the OSF project.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('error-based learning')"
+  }
+ },
+ {
+  "id": "Takiyama2016_PLoSONE",
+  "label": "Takiyama & Shinya 2016",
+  "year": 2016,
+  "lab": "Shinya (The University of Tokyo)",
+  "papers": [
+   {
+    "authors": "Takiyama K, Shinya M",
+    "year": 2016,
+    "title": "Development of a Portable Motor Learning Laboratory (PoMLab)",
+    "venue": "PLoS ONE 11(6):e0157588",
+    "doi": "10.1371/journal.pone.0157588"
+   }
+  ],
+  "data_url": "https://doi.org/10.5061/dryad.04629/1",
+  "host": "Dryad",
+  "formats": [],
+  "n_participants": null,
+  "task": "reaching",
+  "methods": [
+   "visuomotor rotation"
+  ],
+  "populations": [],
+  "license": "CC0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('motor decision')"
+  }
+ },
+ {
+  "id": "Milton2016_JRSocInterface",
+  "label": "Milton et al. 2016",
+  "year": 2016,
+  "lab": "Insperger (Budapest University of Technology and Economics)",
+  "papers": [
+   {
+    "authors": "Milton J, Meyer R, Zhvanetsky M, Ridge S, Insperger T",
+    "year": 2016,
+    "title": "Control at stability's edge minimizes energetic costs: expert stick balancing",
+    "venue": "J R Soc Interface 13(119):20160212",
+    "doi": "10.1098/rsif.2016.0212"
+   }
+  ],
+  "data_url": "https://doi.org/10.5061/dryad.73q8s",
+  "host": "Dryad",
+  "formats": [],
+  "n_participants": null,
+  "task": "balance and posture",
+  "methods": [],
+  "populations": [],
+  "license": "CC0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('internal model'); data found through DataCite"
+  }
+ },
+ {
+  "id": "Boulanger2017_PLoSONE",
+  "label": "Boulanger et al. 2017",
+  "year": 2017,
+  "lab": "Faubert (Universite de Montreal)",
+  "papers": [
+   {
+    "authors": "Boulanger M, Giraudet G, Faubert J",
+    "year": 2017,
+    "title": "Interaction between the oculomotor and postural systems during a dual-task: Compensatory reductions in head sway following visually-induced postural perturbations promote the production of accurate double-step saccades in standing human adults",
+    "venue": "PLoS ONE 12(3):e0173678",
+    "doi": "10.1371/journal.pone.0173678"
+   }
+  ],
+  "data_url": "https://doi.org/10.5061/dryad.rj0h0",
+  "host": "Dryad",
+  "formats": [],
+  "n_participants": 12,
+  "task": "eye movements",
+  "methods": [
+   "dual task"
+  ],
+  "populations": [],
+  "license": "CC0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('dual-task'); data found through DataCite"
+  }
+ },
+ {
+  "id": "Ikegami2018_eLife",
+  "label": "Ikegami et al. 2018",
+  "year": 2018,
+  "lab": "Nakamoto (National Institute of Fitness and Sports in Kanoya)",
+  "papers": [
+   {
+    "authors": "Ikegami T, Ganesh G, Takeuchi T, Nakamoto H",
+    "year": 2018,
+    "title": "Prediction error induced motor contagions in human behaviors",
+    "venue": "eLife 7:e33392",
+    "doi": "10.7554/elife.33392"
+   }
+  ],
+  "data_url": "https://doi.org/10.5061/dryad.3563k",
+  "host": "Dryad",
+  "formats": [],
+  "n_participants": null,
+  "task": "reaching",
+  "methods": [],
+  "populations": [],
+  "license": "CC0",
+  "license_note": null,
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('ideomotor'); data found through DataCite"
+  }
+ },
+ {
+  "id": "Gregori2019_ADLkinematics",
+  "label": "Gregori et al. 2019",
+  "year": 2019,
+  "lab": "Gijsberts (Italian Institute of Technology)",
+  "papers": [
+   {
+    "authors": "Gregori V, Cognolato M, Saetta G, Atzori M, The MeganePro Consortium, Gijsberts A",
+    "year": 2019,
+    "title": "On the Visuomotor Behavior of Amputees and Able-Bodied People During Grasping",
+    "venue": "Front Bioeng Biotechnol 7:316",
+    "doi": "10.3389/fbioe.2019.00316"
+   }
+  ],
+  "data_url": "https://doi.org/10.7910/dvn/stixxj",
+  "host": "Harvard Dataverse",
+  "formats": [],
+  "n_participants": 44,
+  "task": "grasping and lifting",
+  "methods": [],
+  "populations": [
+   "limb amputation"
+  ],
+  "license": null,
+  "license_note": "No license is stated on the deposit.",
+  "extra_tags": [],
+  "found_by": {
+   "finder": "2026-11-26",
+   "how": "Europe PMC paper with a motor theory keyword in title/abstract ('interval timing'); data found through DataCite"
+  }
  }
 ]
